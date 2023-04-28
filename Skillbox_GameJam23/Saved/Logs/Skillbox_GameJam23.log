@@ -1062,3 +1062,1351 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.28-10.28.39:202][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.04.28-10.28.41:112][116]LogRendererCore: Warning: Query 'Unaccounted' not ready.
 [2023.04.28-10.28.42:315][255]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.28-10.30.15:524][639]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.28-10.30.15:534][639]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.28-10.30.15:535][639]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.28-10.30.15:578][641]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.28-10.30.17:721][870]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2023.04.28-10.30.17:721][870]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.28-10.30.21:684][294]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.04.28-10.30.21:690][294]LogContentBrowser: Creating deferred item: NewWorld
+[2023.04.28-10.30.21:742][296]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.04.28-10.30.26:669][814]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenu
+[2023.04.28-10.30.26:669][814]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-10.30.26:679][814]LogContentBrowser: End creating deferred item NewWorld
+[2023.04.28-10.30.29:408][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.28-10.30.30:717][ 99]LogSlate: Window 'Save Content' being destroyed
+[2023.04.28-10.30.30:723][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-10.30.30:757][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-10.30.30:762][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.04.28-10.30.30:766][ 99]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.004044 seconds
+[2023.04.28-10.30.30:767][ 99]LogSerialization: UsePackageTrailer: 'true'
+[2023.04.28-10.30.30:768][ 99]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2023.04.28-10.30.30:768][ 99]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/MainMenu7FD8A0704B74E6E5E9DC3F904374F7A4.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Maps/MainMenu.umap'
+[2023.04.28-10.30.30:769][ 99]LogFileHelpers: Saving map 'MainMenu' took 0.012
+[2023.04.28-10.30.30:774][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms
+[2023.04.28-10.30.30:778][ 99]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.28-10.30.30:778][ 99]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MainMenu.MainMenu
+[2023.04.28-10.30.51:297][109]LogDerivedDataCache: C:/Users/4y6au/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:20.275 and deleted 0 files with total size 0 MiB. Scanned 11017 files in 10808 folders with total size 1207 MiB.
+[2023.04.28-10.30.58:583][712]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.04.28-10.30.58:587][712]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.04.28-10.31.07:348][405]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.28-10.31.12:417][862]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.28-10.31.12:421][862]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.28-10.31.21:968][ 72]LogSlate: Window 'Save Level As' being destroyed
+[2023.04.28-10.31.22:181][ 72]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/NewMap_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/NewMap/7/PV/3F6BO7MT23VXF0F3BJ3SVV
+/Game/__ExternalObjects__/Maps/NewMap/B/1I/0IU8TM862LV9H1H1NLM65H
+/Game/__ExternalObjects__/Maps/NewMap/A/GD/MF84NVBBXEU474DJ8ZVZAE
+/Game/__ExternalObjects__/Maps/NewMap/4/S0/NGAU94BV2F559EHNTPSSBV
+/Game/__ExternalObjects__/Maps/NewMap/6/3M/ZEFXAEX0HV3TIZWTU363JO
+/Game/__ExternalObjects__/Maps/NewMap/D/74/RFBFD2DNH0FEFQHKLMS41U
+/Game/__ExternalActors__/Maps/NewMap/7/8Q/VJ59F2KE5EJH7KL11HW56U
+/Game/__ExternalActors__/Maps/NewMap/8/ZI/VRIBNAXQJAWQR5GOWUC1SN
+/Game/__ExternalActors__/Maps/NewMap/4/A0/I6PGO2ZACY1WYF9I5EWTV6
+/Game/__ExternalActors__/Maps/NewMap/3/XV/N7NAI5BLFP6XUPRVG9092T
+/Game/__ExternalActors__/Maps/NewMap/4/CH/3K1ELW8POX1476YIQIL90J
+/Game/__ExternalActors__/Maps/NewMap/0/K8/KR4MOME0Q9EHHAY19LM47K
+/Game/__ExternalActors__/Maps/NewMap/9/NJ/QESUL5YBJS1BBCHS2JSAVQ
+/Game/__ExternalActors__/Maps/NewMap/5/C6/3MZ9SCO4KE8UN4S2S282VM
+/Game/__ExternalActors__/Maps/NewMap/3/KW/T37EUQ2I007W1SUXMLX8B1
+/Game/__ExternalActors__/Maps/NewMap/E/HP/LU8EKCDKP0TL42NE2BIE38
+/Game/__ExternalActors__/Maps/NewMap/B/E2/FB68B8QWD9882N88F07FTI
+/Game/__ExternalActors__/Maps/NewMap/9/ML/0A2E1UWBY3YB38FNYNUELG
+/Game/__ExternalActors__/Maps/NewMap/0/QE/10GL7VDT3NTXY663PYRD4Y
+/Game/__ExternalActors__/Maps/NewMap/8/C7/Z7VCJMUUKO55YXUQ5F3HS5
+/Game/__ExternalActors__/Maps/NewMap/4/59/4L9KR4JK4180UQ3PBI1B5L
+/Game/__ExternalActors__/Maps/NewMap/9/WP/6NFSDY4DTFF14D3C9ONM8B
+/Game/__ExternalActors__/Maps/NewMap/4/T0/SECY0RQVNA3LGX1MRFFWJR
+/Game/__ExternalActors__/Maps/NewMap/E/85/ND2LBN0Y13W6NNXN1UWAAO
+/Game/__ExternalActors__/Maps/NewMap/4/PR/AD3ZC87T0ZBOYRJO3J9ANR
+/Game/__ExternalActors__/Maps/NewMap/2/J4/WRN96VKTI839WVDGJHVO2N
+/Game/__ExternalActors__/Maps/NewMap/A/YP/F85QFOQL6YKZ6YT6SJ8Y8J
+/Game/__ExternalActors__/Maps/NewMap/D/XB/WBW1UWYEJSRM0YAXQL9R11
+/Game/__ExternalActors__/Maps/NewMap/3/9Y/XJMB4I0OIEYHGBTFXAAQIK
+/Game/__ExternalActors__/Maps/NewMap/2/IS/KU1RQBEIZ0F2EMT32CUIE5
+/Game/__ExternalActors__/Maps/NewMap/4/A2/ND9FMEFS3T1CTINSZTJD01
+/Game/__ExternalActors__/Maps/NewMap/6/1Z/MTR97PWLYR7UZVTDU6VSFZ
+/Game/__ExternalActors__/Maps/NewMap/7/2X/MN8VQWTLB3SJB8SY6MZWBJ
+/Game/__ExternalActors__/Maps/NewMap/B/FE/XWU87CPB9QZZOQNI11XCVC
+/Game/__ExternalActors__/Maps/NewMap/E/WQ/XGGG0WAMG1XPGUSTU0HKB0
+/Game/__ExternalActors__/Maps/NewMap/C/PC/NOFCOKUNMS5V2UN59JU9XG
+/Game/__ExternalActors__/Maps/NewMap/5/X6/BLSH9E41YJPK1ZY6Y0GV1N
+/Game/__ExternalActors__/Maps/NewMap/8/46/DX9Z6DKV510ZEYXSS0RAN0
+/Game/__ExternalActors__/Maps/NewMap/B/6H/84RKNU609EH5C98EZOP1PG
+/Game/__ExternalActors__/Maps/NewMap/4/BR/9EXQAIFRX4Z4OC2OH93QVF
+/Game/__ExternalActors__/Maps/NewMap/7/7O/ZZBED7LHDGKG3SH8THJYQZ
+/Game/__ExternalActors__/Maps/NewMap/7/1M/UO3OI5US8RHIWEAU9K9G3K
+/Game/__ExternalActors__/Maps/NewMap/4/2W/KXQ6PYOG90C66N1CJJXJHN
+/Game/__ExternalActors__/Maps/NewMap/5/T9/Q071S8QNFVQYMEK9L4BU5G
+/Game/__ExternalActors__/Maps/NewMap/B/SI/T7QOSKKISAD7TW2ET44AJH
+/Game/__ExternalActors__/Maps/NewMap/8/Y9/B2X2TWC98I4UROIW8EGUWZ
+/Game/__ExternalActors__/Maps/NewMap/4/FV/DMIYP3Z11CP73TNW8H76FN
+/Game/__ExternalActors__/Maps/NewMap/D/AR/W0W40E79SDBRJBO8KUQ77Y
+/Game/__ExternalActors__/Maps/NewMap/6/R7/OLV86I0JEO5FH07W2RYUJB
+/Game/__ExternalActors__/Maps/NewMap/6/C8/3G8JKEP9AAZ27SP07W7G2I
+/Game/__ExternalActors__/Maps/NewMap/5/9J/O2IW7NMCQKXVD54OR4KVVT
+/Game/__ExternalActors__/Maps/NewMap/B/38/5WQUG4Z7YE3VRLFVRYNMC7
+/Game/__ExternalActors__/Maps/NewMap/5/NV/683JY7PQASBHKBGG1KHJZJ
+/Game/__ExternalActors__/Maps/NewMap/4/E0/3DNHCYXL85IR1Z21BNAE4Z
+/Game/__ExternalActors__/Maps/NewMap/4/NT/ORO7HOQI4SPZC00FVB89RR
+/Game/__ExternalActors__/Maps/NewMap/5/FJ/AF0IB6NERZTY60FT9IT1I5
+/Game/__ExternalActors__/Maps/NewMap/C/BW/RA2KM5I66ZNSU53VCRY2SI
+/Game/__ExternalActors__/Maps/NewMap/E/MU/ZTQ5H3ILVU9UJ72Y5W3J3T
+/Game/__ExternalActors__/Maps/NewMap/6/VO/XE7YNGKZFDGGV0LG9I64Y0
+/Game/__ExternalActors__/Maps/NewMap/0/DU/KUWRZ3Y1EYZ0QB2RKTT2B7
+/Game/__ExternalActors__/Maps/NewMap/B/VB/TDPTR8SQ20EHZWPF4P6UXP
+/Game/__ExternalActors__/Maps/NewMap/6/YS/NPPZCARNDCI0B9YHNAH2TN
+/Game/__ExternalActors__/Maps/NewMap/1/Y7/THXEXE8C7Z8X364XCEU44L
+/Game/__ExternalActors__/Maps/NewMap/F/0P/6IK7QNJ3GVBD1FYM95RX7Q
+/Game/__ExternalActors__/Maps/NewMap/A/W0/9UVZPR6FU0QJW26SZGZ6XW
+/Game/__ExternalActors__/Maps/NewMap/0/N8/COA6RG9N2HZXTGSJTPAUS4
+/Game/__ExternalActors__/Maps/NewMap/5/2A/NNNNTLKKAPOM5AN7Z5F358
+/Game/__ExternalActors__/Maps/NewMap/C/R7/JC7KQ4ZPXIVLIAUVHGG94K
+/Game/__ExternalActors__/Maps/NewMap/E/VE/G86XT6C01J32PZHFXA1KHO
+/Game/__ExternalActors__/Maps/NewMap/1/A2/USXJ510VJSP46Z7EF7RM17
+/Game/__ExternalActors__/Maps/NewMap/3/JX/1PYRMHYJKTHEM77W57LQXM
+/Game/__ExternalActors__/Maps/NewMap/D/DI/V62YEPXPX8WWK4R2FV85YD
+/Game/__ExternalActors__/Maps/NewMap/1/D3/4Z2GB9AES9WPD9BLFZWPVO
+/Game/__ExternalActors__/Maps/NewMap/A/F5/OP4SOY7NOSDSEO6RKNBWYF
+/Game/__ExternalActors__/Maps/NewMap/B/X6/4JM3OOF6XJPFG17TLNQ1PG
+/Game/__ExternalActors__/Maps/NewMap/1/RJ/YMV71CZT1I4LM4G6OL7HSZ
+/Game/__ExternalActors__/Maps/NewMap/0/IG/JDX5IBJO7Z9HMDPSFG1PSR
+/Game/__ExternalActors__/Maps/NewMap/8/S7/L26QUYRJI0L8EO664T22GB
+/Game/__ExternalActors__/Maps/NewMap/C/5P/CTK2OZJ0TD52HOQI943070
+/Game/__ExternalActors__/Maps/NewMap/E/UB/2TZO04YJS83TR30IPVEA3A
+/Game/__ExternalActors__/Maps/NewMap/9/D3/W3ENG6WT8B4Y7P5BDKVG78
+/Game/__ExternalActors__/Maps/NewMap/0/LV/19L43JGIBGZG95VEMP24N0
+/Game/__ExternalActors__/Maps/NewMap/0/TG/S9VLC5F15MMJ7S7GMKMC2F
+/Game/__ExternalActors__/Maps/NewMap/E/1Z/GCVO6L3526C3CH6QDBN0Y0
+/Game/__ExternalActors__/Maps/NewMap/3/LN/0X7FYN6NMPB1M960XWGT9H
+/Game/__ExternalActors__/Maps/NewMap/3/YY/3ARTAHD2RXMOW7IESFLF2L
+/Game/__ExternalActors__/Maps/NewMap/3/KN/76I8XS01VKY6Q6FG20XCLX
+/Game/__ExternalActors__/Maps/NewMap/B/NN/RX0D0AA1RSPU7H6KFM0YPV
+/Game/__ExternalActors__/Maps/NewMap/E/UY/2TQBQJEZ5A51K0Y2FHWH7Q
+/Game/__ExternalActors__/Maps/NewMap/9/H4/E4TPPTVM23Y0311ZZ99GBO
+/Game/__ExternalActors__/Maps/NewMap/7/TM/DWAI0L0FFZJ12XJDQ6LYOK
+/Game/__ExternalActors__/Maps/NewMap/5/HB/93Y9VDD5DF7MF8DY1YSSX6
+/Game/__ExternalActors__/Maps/NewMap/8/VC/4AP6D7KO98NIF0KSGUVJVJ
+/Game/__ExternalActors__/Maps/NewMap/E/1X/TA06HTFRWCT02GS83R83VL
+/Game/__ExternalActors__/Maps/NewMap/0/LB/NT6T0B9WMU3CVQPH0TOT4C
+/Game/__ExternalActors__/Maps/NewMap/8/S3/A7TSBF7PNH6Y3N2F7BQTU2
+/Game/__ExternalActors__/Maps/NewMap/5/JE/DPUU340F2WJGN0LO9PU3B5
+/Game/__ExternalActors__/Maps/NewMap/C/T3/00MZYI3U86E5KJPMZ0FDP3
+/Game/__ExternalActors__/Maps/NewMap/2/AW/86DM1N8S19OSG2Q0890Q6C
+/Game/__ExternalActors__/Maps/NewMap/3/XP/K9LSSGWF7KWEP9FR2R0SMZ
+/Game/__ExternalActors__/Maps/NewMap/B/80/TWZYH30QOVLL21D5Z4M5GM
+/Game/__ExternalActors__/Maps/NewMap/8/4C/URUEECE8Q039JS1MW6AQFS
+/Game/__ExternalActors__/Maps/NewMap/7/2Q/SMFX9K3H6YNF0HNEEZYV0F
+/Game/__ExternalActors__/Maps/NewMap/4/8O/WWMU3NYFMRO5GHJ11HT3YD
+/Game/__ExternalActors__/Maps/NewMap/3/5H/R0WEJ15BFKMKLO9GOZ7HEN
+/Game/__ExternalActors__/Maps/NewMap/7/QT/MW95IT44BOU86VBQXYJB2I
+/Game/__ExternalActors__/Maps/NewMap/3/P2/REATSQLSPQZ015ADB8U8ZM
+/Game/__ExternalActors__/Maps/NewMap/C/1X/ALWXVJ8N9PKFVNI430FP1L
+/Game/__ExternalActors__/Maps/NewMap/7/OS/46RVXM5Z2JMQFRMP3HFZGN
+/Game/__ExternalActors__/Maps/NewMap/7/FX/5BAMUYPL5QGVQ1M86LNGFJ
+/Game/__ExternalActors__/Maps/NewMap/3/ZH/L5KHFN50O0K637W67ZQQWG
+/Game/__ExternalActors__/Maps/NewMap/4/V6/1W85W841P7DGFY1RITC21A
+/Game/__ExternalActors__/Maps/NewMap/E/PA/06I5HPBP3ZHXSE0XYZJU9X
+/Game/__ExternalActors__/Maps/NewMap/D/PP/NFIE4QGB2BE608UN26JBV4
+/Game/__ExternalActors__/Maps/NewMap/5/LC/9AOAPFT1HTP0CROLCUG48S
+/Game/__ExternalActors__/Maps/NewMap/7/GE/HW3YAGS8JK79IOMCXJJNT9
+/Game/__ExternalActors__/Maps/NewMap/4/78/RPFZQZNYB614RD868LZDJ7
+/Game/__ExternalActors__/Maps/NewMap/1/TU/0M4MQW00MINTCQJZS6D99C
+/Game/__ExternalActors__/Maps/NewMap/D/MB/KXX3XCNKZUVWY5QGDYLQT1
+/Game/__ExternalActors__/Maps/NewMap/8/HV/UCRJ0K6U78J3JYNJQVJNYR
+/Game/__ExternalActors__/Maps/NewMap/8/W4/PHEYY90DIISNAJR6UBXXO0
+/Game/__ExternalActors__/Maps/NewMap/7/MS/KVPWSOA7PN5YBH4QIVD7QN
+/Game/__ExternalActors__/Maps/NewMap/8/GP/DPV3BPVGG84X6FIEKQCOPJ
+/Game/__ExternalActors__/Maps/NewMap/7/36/F22ULH4T51JXGTRCMEK8UG
+/Game/__ExternalActors__/Maps/NewMap/7/SI/C76RN6XWZ6CN9SGOT9QG56
+/Game/__ExternalActors__/Maps/NewMap/2/XM/OVE9U52W6MM943CQTP5RWR
+/Game/__ExternalActors__/Maps/NewMap/E/SV/84D66C97FHOT4FCBGNKH45
+/Game/__ExternalActors__/Maps/NewMap/D/XI/5QQ8GINASJMOCL3ZXBD3GC
+/Game/__ExternalActors__/Maps/NewMap/7/6R/XRFE94Z67QQGPBNHW60FPL
+/Game/__ExternalActors__/Maps/NewMap/3/9F/SW0CTL36IV5VO8S3GVSLAU
+/Game/__ExternalActors__/Maps/NewMap/2/BB/5H893DF6XR2IQCON92JXLJ
+/Game/__ExternalActors__/Maps/NewMap/7/MN/CW0J1GFHKN1OJ3QMW31VQA
+/Game/__ExternalActors__/Maps/NewMap/B/G5/27HNARH8N9FF7RR5A95P03
+/Game/__ExternalActors__/Maps/NewMap/2/4Q/97HAKJJCCZS9AHX5PU43OW
+/Game/__ExternalActors__/Maps/NewMap/5/ZR/K0RQ4B0L9IVHZXJKZV20HP
+/Game/__ExternalActors__/Maps/NewMap/B/DV/VXWIGE4SAMTYIBGTE5A55I
+/Game/__ExternalActors__/Maps/NewMap/0/OI/ZUEE6K11AQ6R2AYGDC2RUH
+/Game/__ExternalActors__/Maps/NewMap/2/SP/6C5KIIHJQC61DFAJAAGVFP
+/Game/__ExternalActors__/Maps/NewMap/F/0E/TSIMTHENK103Q5M0RIS0VN
+/Game/__ExternalActors__/Maps/NewMap/6/QE/645MYKBV7S2CA2AS80U9VV
+/Game/__ExternalActors__/Maps/NewMap/B/FI/U8ULXKBNWT08NU7LK2FOIG
+/Game/__ExternalActors__/Maps/NewMap/2/3V/GBY3G54KKIE9KG4FYKY4K6
+[2023.04.28-10.31.22:182][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-10.31.22:182][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_HLOD0_Instancing" FILE="G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Maps/NewMap_HLOD0_Instancing.uasset" SILENT=true
+[2023.04.28-10.31.22:182][ 72]LogSavePackage: Moving output files for package: /Game/Maps/NewMap_HLOD0_Instancing
+[2023.04.28-10.31.22:182][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/NewMap_HLOD0_InstancingA91B39FB4D9F301D50587992F8254D39.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Maps/NewMap_HLOD0_Instancing.uasset'
+[2023.04.28-10.31.22:184][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/PV/3F6BO7MT23VXF0F3BJ3SVV
+[2023.04.28-10.31.22:184][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/3F6BO7MT23VXF0F3BJ3SVV3F0705BB46EC41A749306D95DA415BC1.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/PV/3F6BO7MT23VXF0F3BJ3SVV.uasset'
+[2023.04.28-10.31.22:185][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/NewMap/B/1I/0IU8TM862LV9H1H1NLM65H
+[2023.04.28-10.31.22:185][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/0IU8TM862LV9H1H1NLM65HAAB4083B4B24F8AE887B3AB0A36954B6.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalObjects__/Maps/NewMap/B/1I/0IU8TM862LV9H1H1NLM65H.uasset'
+[2023.04.28-10.31.22:186][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/NewMap/A/GD/MF84NVBBXEU474DJ8ZVZAE
+[2023.04.28-10.31.22:186][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/MF84NVBBXEU474DJ8ZVZAEBEDE6A4A4186A0B1E5BD9FB6B88BE513.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalObjects__/Maps/NewMap/A/GD/MF84NVBBXEU474DJ8ZVZAE.uasset'
+[2023.04.28-10.31.22:187][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/NewMap/4/S0/NGAU94BV2F559EHNTPSSBV
+[2023.04.28-10.31.22:187][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/NGAU94BV2F559EHNTPSSBVD51FD5B44B29022EF53B1A957F7CBC48.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalObjects__/Maps/NewMap/4/S0/NGAU94BV2F559EHNTPSSBV.uasset'
+[2023.04.28-10.31.22:188][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/NewMap/6/3M/ZEFXAEX0HV3TIZWTU363JO
+[2023.04.28-10.31.22:188][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/ZEFXAEX0HV3TIZWTU363JO619677A5474BA3CE9BC01187684B8CC5.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalObjects__/Maps/NewMap/6/3M/ZEFXAEX0HV3TIZWTU363JO.uasset'
+[2023.04.28-10.31.22:189][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/NewMap/D/74/RFBFD2DNH0FEFQHKLMS41U
+[2023.04.28-10.31.22:189][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/RFBFD2DNH0FEFQHKLMS41U0C1141024FD52C58C39393BEE531757C.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalObjects__/Maps/NewMap/D/74/RFBFD2DNH0FEFQHKLMS41U.uasset'
+[2023.04.28-10.31.22:191][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/8Q/VJ59F2KE5EJH7KL11HW56U
+[2023.04.28-10.31.22:191][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/VJ59F2KE5EJH7KL11HW56UD975058B42EF8A5E8D624DAADB30A522.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/8Q/VJ59F2KE5EJH7KL11HW56U.uasset'
+[2023.04.28-10.31.22:192][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/ZI/VRIBNAXQJAWQR5GOWUC1SN
+[2023.04.28-10.31.22:192][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/VRIBNAXQJAWQR5GOWUC1SNEC15D48340925B82C95CB59E6C1CB7E1.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/ZI/VRIBNAXQJAWQR5GOWUC1SN.uasset'
+[2023.04.28-10.31.22:193][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/A0/I6PGO2ZACY1WYF9I5EWTV6
+[2023.04.28-10.31.22:193][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/I6PGO2ZACY1WYF9I5EWTV60D9D36454A4896A50C857A9A13534C1A.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/A0/I6PGO2ZACY1WYF9I5EWTV6.uasset'
+[2023.04.28-10.31.22:194][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/XV/N7NAI5BLFP6XUPRVG9092T
+[2023.04.28-10.31.22:194][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/N7NAI5BLFP6XUPRVG9092T3D2C1CFA4B57AA9E043DFDA711D05AA3.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/XV/N7NAI5BLFP6XUPRVG9092T.uasset'
+[2023.04.28-10.31.22:197][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/CH/3K1ELW8POX1476YIQIL90J
+[2023.04.28-10.31.22:197][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/3K1ELW8POX1476YIQIL90J7E5D27044F96A965C4C1D4A296A33051.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/CH/3K1ELW8POX1476YIQIL90J.uasset'
+[2023.04.28-10.31.22:198][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/K8/KR4MOME0Q9EHHAY19LM47K
+[2023.04.28-10.31.22:198][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/KR4MOME0Q9EHHAY19LM47KBC40FF894AFA86B273FEB4ACA56F7723.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/0/K8/KR4MOME0Q9EHHAY19LM47K.uasset'
+[2023.04.28-10.31.22:199][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/9/NJ/QESUL5YBJS1BBCHS2JSAVQ
+[2023.04.28-10.31.22:199][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/QESUL5YBJS1BBCHS2JSAVQ7D18479B47DFE8D6BD029DB8BBF57D80.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/9/NJ/QESUL5YBJS1BBCHS2JSAVQ.uasset'
+[2023.04.28-10.31.22:200][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/C6/3MZ9SCO4KE8UN4S2S282VM
+[2023.04.28-10.31.22:200][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/3MZ9SCO4KE8UN4S2S282VM209B87EB4057E2EDB2BC3DB244466534.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/C6/3MZ9SCO4KE8UN4S2S282VM.uasset'
+[2023.04.28-10.31.22:207][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/KW/T37EUQ2I007W1SUXMLX8B1
+[2023.04.28-10.31.22:208][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/T37EUQ2I007W1SUXMLX8B1AEEA05C04A55A903233B07A1DA7920B0.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/KW/T37EUQ2I007W1SUXMLX8B1.uasset'
+[2023.04.28-10.31.22:219][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/HP/LU8EKCDKP0TL42NE2BIE38
+[2023.04.28-10.31.22:219][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/LU8EKCDKP0TL42NE2BIE38C59A4B3B45AD094AED67708D3BA44E66.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/HP/LU8EKCDKP0TL42NE2BIE38.uasset'
+[2023.04.28-10.31.22:227][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/E2/FB68B8QWD9882N88F07FTI
+[2023.04.28-10.31.22:227][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/FB68B8QWD9882N88F07FTIFCD82D114EC51B0B645F99BFFF97801E.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/E2/FB68B8QWD9882N88F07FTI.uasset'
+[2023.04.28-10.31.22:234][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/9/ML/0A2E1UWBY3YB38FNYNUELG
+[2023.04.28-10.31.22:234][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/0A2E1UWBY3YB38FNYNUELGA2EB11474B1381CECA307090E7F50DDB.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/9/ML/0A2E1UWBY3YB38FNYNUELG.uasset'
+[2023.04.28-10.31.22:242][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/QE/10GL7VDT3NTXY663PYRD4Y
+[2023.04.28-10.31.22:242][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/10GL7VDT3NTXY663PYRD4YB62D2D214F249205C962C89651E700F5.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/0/QE/10GL7VDT3NTXY663PYRD4Y.uasset'
+[2023.04.28-10.31.22:250][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/C7/Z7VCJMUUKO55YXUQ5F3HS5
+[2023.04.28-10.31.22:250][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/Z7VCJMUUKO55YXUQ5F3HS5AB47563749B20159D5EE37A26644068B.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/C7/Z7VCJMUUKO55YXUQ5F3HS5.uasset'
+[2023.04.28-10.31.22:256][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/59/4L9KR4JK4180UQ3PBI1B5L
+[2023.04.28-10.31.22:256][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/4L9KR4JK4180UQ3PBI1B5L434457A6416D1E10C3BF1393E810EAF6.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/59/4L9KR4JK4180UQ3PBI1B5L.uasset'
+[2023.04.28-10.31.22:264][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/9/WP/6NFSDY4DTFF14D3C9ONM8B
+[2023.04.28-10.31.22:264][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/6NFSDY4DTFF14D3C9ONM8BA9A40130447E2859201BB18914CA0D9F.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/9/WP/6NFSDY4DTFF14D3C9ONM8B.uasset'
+[2023.04.28-10.31.22:271][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/T0/SECY0RQVNA3LGX1MRFFWJR
+[2023.04.28-10.31.22:271][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/SECY0RQVNA3LGX1MRFFWJR067A06B24BFA674B99CF869226877931.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/T0/SECY0RQVNA3LGX1MRFFWJR.uasset'
+[2023.04.28-10.31.22:279][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/85/ND2LBN0Y13W6NNXN1UWAAO
+[2023.04.28-10.31.22:279][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/ND2LBN0Y13W6NNXN1UWAAO0C9D43814221DA8CF0EC7CB0CB0E1FC8.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/85/ND2LBN0Y13W6NNXN1UWAAO.uasset'
+[2023.04.28-10.31.22:286][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/PR/AD3ZC87T0ZBOYRJO3J9ANR
+[2023.04.28-10.31.22:286][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/AD3ZC87T0ZBOYRJO3J9ANR1001E4274572B110E82E02B89DEE9B65.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/PR/AD3ZC87T0ZBOYRJO3J9ANR.uasset'
+[2023.04.28-10.31.22:294][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/J4/WRN96VKTI839WVDGJHVO2N
+[2023.04.28-10.31.22:294][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/WRN96VKTI839WVDGJHVO2N071FD5714835CC579050CCAFC768B624.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/2/J4/WRN96VKTI839WVDGJHVO2N.uasset'
+[2023.04.28-10.31.22:301][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/A/YP/F85QFOQL6YKZ6YT6SJ8Y8J
+[2023.04.28-10.31.22:301][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/F85QFOQL6YKZ6YT6SJ8Y8JC2D531BB4269D02742F9C5B7EA6DC237.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/A/YP/F85QFOQL6YKZ6YT6SJ8Y8J.uasset'
+[2023.04.28-10.31.22:308][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/XB/WBW1UWYEJSRM0YAXQL9R11
+[2023.04.28-10.31.22:308][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/WBW1UWYEJSRM0YAXQL9R11E21CFF574910E6FF3E69E4A5DBA5BCFC.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/D/XB/WBW1UWYEJSRM0YAXQL9R11.uasset'
+[2023.04.28-10.31.22:316][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/9Y/XJMB4I0OIEYHGBTFXAAQIK
+[2023.04.28-10.31.22:316][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/XJMB4I0OIEYHGBTFXAAQIK4899275A4D810FDBC481789903F74A48.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/9Y/XJMB4I0OIEYHGBTFXAAQIK.uasset'
+[2023.04.28-10.31.22:325][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/IS/KU1RQBEIZ0F2EMT32CUIE5
+[2023.04.28-10.31.22:325][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/KU1RQBEIZ0F2EMT32CUIE59189242E4FA830C86FE793936F55BAFA.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/2/IS/KU1RQBEIZ0F2EMT32CUIE5.uasset'
+[2023.04.28-10.31.22:332][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/A2/ND9FMEFS3T1CTINSZTJD01
+[2023.04.28-10.31.22:332][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/ND9FMEFS3T1CTINSZTJD015E4CAF184F9EB6D4976295AAEC4B7ED2.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/A2/ND9FMEFS3T1CTINSZTJD01.uasset'
+[2023.04.28-10.31.22:340][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/1Z/MTR97PWLYR7UZVTDU6VSFZ
+[2023.04.28-10.31.22:340][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/MTR97PWLYR7UZVTDU6VSFZ42600D5942D9124EEC07F39763BCAC3B.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/6/1Z/MTR97PWLYR7UZVTDU6VSFZ.uasset'
+[2023.04.28-10.31.22:347][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/2X/MN8VQWTLB3SJB8SY6MZWBJ
+[2023.04.28-10.31.22:347][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/MN8VQWTLB3SJB8SY6MZWBJB4C4B27C4180928178CC62ADEC13AB77.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/2X/MN8VQWTLB3SJB8SY6MZWBJ.uasset'
+[2023.04.28-10.31.22:355][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/FE/XWU87CPB9QZZOQNI11XCVC
+[2023.04.28-10.31.22:355][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/XWU87CPB9QZZOQNI11XCVC53568A4744047A6E2BBDF8A737D45B87.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/FE/XWU87CPB9QZZOQNI11XCVC.uasset'
+[2023.04.28-10.31.22:362][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/WQ/XGGG0WAMG1XPGUSTU0HKB0
+[2023.04.28-10.31.22:362][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/XGGG0WAMG1XPGUSTU0HKB0C50F6FC54217A86C816BCDA1CA3A6018.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/WQ/XGGG0WAMG1XPGUSTU0HKB0.uasset'
+[2023.04.28-10.31.22:369][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/PC/NOFCOKUNMS5V2UN59JU9XG
+[2023.04.28-10.31.22:369][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/NOFCOKUNMS5V2UN59JU9XG336900E34A65DB9A9FFA3AB9E1E3072E.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/C/PC/NOFCOKUNMS5V2UN59JU9XG.uasset'
+[2023.04.28-10.31.22:378][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/X6/BLSH9E41YJPK1ZY6Y0GV1N
+[2023.04.28-10.31.22:378][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/BLSH9E41YJPK1ZY6Y0GV1N92239B984C7DE6FC1FA0789A187B049C.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/X6/BLSH9E41YJPK1ZY6Y0GV1N.uasset'
+[2023.04.28-10.31.22:385][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/46/DX9Z6DKV510ZEYXSS0RAN0
+[2023.04.28-10.31.22:385][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/DX9Z6DKV510ZEYXSS0RAN04AF5C3A64A885024750383BC400692E8.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/46/DX9Z6DKV510ZEYXSS0RAN0.uasset'
+[2023.04.28-10.31.22:392][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/6H/84RKNU609EH5C98EZOP1PG
+[2023.04.28-10.31.22:392][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/84RKNU609EH5C98EZOP1PG7463162545D3266964DBBEBC78AC2B51.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/6H/84RKNU609EH5C98EZOP1PG.uasset'
+[2023.04.28-10.31.22:400][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/BR/9EXQAIFRX4Z4OC2OH93QVF
+[2023.04.28-10.31.22:400][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/9EXQAIFRX4Z4OC2OH93QVF3638CFC0499DC54B5C072EBF8BB998F5.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/BR/9EXQAIFRX4Z4OC2OH93QVF.uasset'
+[2023.04.28-10.31.22:407][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/7O/ZZBED7LHDGKG3SH8THJYQZ
+[2023.04.28-10.31.22:407][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/ZZBED7LHDGKG3SH8THJYQZ6BA6DB144CFEED3EB84E02B1DB8B7D49.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/7O/ZZBED7LHDGKG3SH8THJYQZ.uasset'
+[2023.04.28-10.31.22:416][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/1M/UO3OI5US8RHIWEAU9K9G3K
+[2023.04.28-10.31.22:416][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/UO3OI5US8RHIWEAU9K9G3KE6BA95DE4CFC595C59AA9992F7106D06.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/1M/UO3OI5US8RHIWEAU9K9G3K.uasset'
+[2023.04.28-10.31.22:424][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/2W/KXQ6PYOG90C66N1CJJXJHN
+[2023.04.28-10.31.22:424][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/KXQ6PYOG90C66N1CJJXJHNF27F50524D4711E5C8D7849AF2B6A584.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/2W/KXQ6PYOG90C66N1CJJXJHN.uasset'
+[2023.04.28-10.31.22:432][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/T9/Q071S8QNFVQYMEK9L4BU5G
+[2023.04.28-10.31.22:432][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/Q071S8QNFVQYMEK9L4BU5G4B490E6F411777ACCF4DDC84CAE31965.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/T9/Q071S8QNFVQYMEK9L4BU5G.uasset'
+[2023.04.28-10.31.22:440][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/SI/T7QOSKKISAD7TW2ET44AJH
+[2023.04.28-10.31.22:440][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/T7QOSKKISAD7TW2ET44AJH1ECCD8F64F311A45C37B81B529BF1A6A.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/SI/T7QOSKKISAD7TW2ET44AJH.uasset'
+[2023.04.28-10.31.22:448][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/Y9/B2X2TWC98I4UROIW8EGUWZ
+[2023.04.28-10.31.22:448][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/B2X2TWC98I4UROIW8EGUWZ2C295DB545EAB45D573FE1B955A7CA8D.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/Y9/B2X2TWC98I4UROIW8EGUWZ.uasset'
+[2023.04.28-10.31.22:454][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/FV/DMIYP3Z11CP73TNW8H76FN
+[2023.04.28-10.31.22:454][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/DMIYP3Z11CP73TNW8H76FN6977881D4E2929EEED267BB3FC865872.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/FV/DMIYP3Z11CP73TNW8H76FN.uasset'
+[2023.04.28-10.31.22:462][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/AR/W0W40E79SDBRJBO8KUQ77Y
+[2023.04.28-10.31.22:462][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/W0W40E79SDBRJBO8KUQ77YE3F5502B4652DC12B08CEC8D0D99BDA0.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/D/AR/W0W40E79SDBRJBO8KUQ77Y.uasset'
+[2023.04.28-10.31.22:469][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/R7/OLV86I0JEO5FH07W2RYUJB
+[2023.04.28-10.31.22:469][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/OLV86I0JEO5FH07W2RYUJB7A94679B47D6B7A4AE1D37A57B3447EE.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/6/R7/OLV86I0JEO5FH07W2RYUJB.uasset'
+[2023.04.28-10.31.22:477][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/C8/3G8JKEP9AAZ27SP07W7G2I
+[2023.04.28-10.31.22:477][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/3G8JKEP9AAZ27SP07W7G2IEF7512C24AC4BF8A4E058194D8246745.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/6/C8/3G8JKEP9AAZ27SP07W7G2I.uasset'
+[2023.04.28-10.31.22:484][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/9J/O2IW7NMCQKXVD54OR4KVVT
+[2023.04.28-10.31.22:484][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/O2IW7NMCQKXVD54OR4KVVT442430BE4FF9C93B34A83DBD49465EB8.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/9J/O2IW7NMCQKXVD54OR4KVVT.uasset'
+[2023.04.28-10.31.22:491][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/38/5WQUG4Z7YE3VRLFVRYNMC7
+[2023.04.28-10.31.22:491][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/5WQUG4Z7YE3VRLFVRYNMC74512647A4ED3CA828727AE8F6778A737.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/38/5WQUG4Z7YE3VRLFVRYNMC7.uasset'
+[2023.04.28-10.31.22:499][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/NV/683JY7PQASBHKBGG1KHJZJ
+[2023.04.28-10.31.22:499][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/683JY7PQASBHKBGG1KHJZJC96C00BB48493BB0D093F9AF8CCC5A39.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/NV/683JY7PQASBHKBGG1KHJZJ.uasset'
+[2023.04.28-10.31.22:506][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/E0/3DNHCYXL85IR1Z21BNAE4Z
+[2023.04.28-10.31.22:506][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/3DNHCYXL85IR1Z21BNAE4Z080E6B6445D3F8222CA983BC4EE6D682.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/E0/3DNHCYXL85IR1Z21BNAE4Z.uasset'
+[2023.04.28-10.31.22:513][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/NT/ORO7HOQI4SPZC00FVB89RR
+[2023.04.28-10.31.22:513][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/ORO7HOQI4SPZC00FVB89RR59329C564C0BF7272FF6739D54B18F16.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/NT/ORO7HOQI4SPZC00FVB89RR.uasset'
+[2023.04.28-10.31.22:520][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/FJ/AF0IB6NERZTY60FT9IT1I5
+[2023.04.28-10.31.22:520][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/AF0IB6NERZTY60FT9IT1I5D02A024943679F4205ED2491D8B87C91.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/FJ/AF0IB6NERZTY60FT9IT1I5.uasset'
+[2023.04.28-10.31.22:528][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/BW/RA2KM5I66ZNSU53VCRY2SI
+[2023.04.28-10.31.22:528][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/RA2KM5I66ZNSU53VCRY2SI243DB6BE430CDAE4C110D8AF95FDB890.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/C/BW/RA2KM5I66ZNSU53VCRY2SI.uasset'
+[2023.04.28-10.31.22:534][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/MU/ZTQ5H3ILVU9UJ72Y5W3J3T
+[2023.04.28-10.31.22:534][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/ZTQ5H3ILVU9UJ72Y5W3J3T65FA3D474C31C7B5A3D3D98F531F7A1B.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/MU/ZTQ5H3ILVU9UJ72Y5W3J3T.uasset'
+[2023.04.28-10.31.22:541][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/VO/XE7YNGKZFDGGV0LG9I64Y0
+[2023.04.28-10.31.22:541][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/XE7YNGKZFDGGV0LG9I64Y0756C65B347ACBA80085621B60F1A160F.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/6/VO/XE7YNGKZFDGGV0LG9I64Y0.uasset'
+[2023.04.28-10.31.22:549][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/DU/KUWRZ3Y1EYZ0QB2RKTT2B7
+[2023.04.28-10.31.22:549][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/KUWRZ3Y1EYZ0QB2RKTT2B78D1F00D1420A11A7379B34AE128F2D5D.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/0/DU/KUWRZ3Y1EYZ0QB2RKTT2B7.uasset'
+[2023.04.28-10.31.22:556][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/VB/TDPTR8SQ20EHZWPF4P6UXP
+[2023.04.28-10.31.22:556][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/TDPTR8SQ20EHZWPF4P6UXPE489AA5B4E998686F14162AC05D94F6F.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/VB/TDPTR8SQ20EHZWPF4P6UXP.uasset'
+[2023.04.28-10.31.22:566][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/YS/NPPZCARNDCI0B9YHNAH2TN
+[2023.04.28-10.31.22:566][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/NPPZCARNDCI0B9YHNAH2TN2EA4017E481A3BFCDE802999368B7BD4.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/6/YS/NPPZCARNDCI0B9YHNAH2TN.uasset'
+[2023.04.28-10.31.22:574][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/1/Y7/THXEXE8C7Z8X364XCEU44L
+[2023.04.28-10.31.22:574][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/THXEXE8C7Z8X364XCEU44L97C449D748AA6E84A262C99040FA3AF9.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/1/Y7/THXEXE8C7Z8X364XCEU44L.uasset'
+[2023.04.28-10.31.22:580][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/F/0P/6IK7QNJ3GVBD1FYM95RX7Q
+[2023.04.28-10.31.22:580][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/6IK7QNJ3GVBD1FYM95RX7QAF34CF4A42FA0837208781A6A0367300.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/F/0P/6IK7QNJ3GVBD1FYM95RX7Q.uasset'
+[2023.04.28-10.31.22:588][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/A/W0/9UVZPR6FU0QJW26SZGZ6XW
+[2023.04.28-10.31.22:588][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/9UVZPR6FU0QJW26SZGZ6XW3C09EE714B49A64E96D486B742AA02EC.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/A/W0/9UVZPR6FU0QJW26SZGZ6XW.uasset'
+[2023.04.28-10.31.22:595][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/N8/COA6RG9N2HZXTGSJTPAUS4
+[2023.04.28-10.31.22:595][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/COA6RG9N2HZXTGSJTPAUS419D1238A4C5D59EC68576588F7D10073.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/0/N8/COA6RG9N2HZXTGSJTPAUS4.uasset'
+[2023.04.28-10.31.22:602][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/2A/NNNNTLKKAPOM5AN7Z5F358
+[2023.04.28-10.31.22:602][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/NNNNTLKKAPOM5AN7Z5F35813DF0732499BCA2AFD42BD994FAA63C0.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/2A/NNNNTLKKAPOM5AN7Z5F358.uasset'
+[2023.04.28-10.31.22:610][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/R7/JC7KQ4ZPXIVLIAUVHGG94K
+[2023.04.28-10.31.22:610][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/JC7KQ4ZPXIVLIAUVHGG94K980D9D834EC34954632046A01C547F8A.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/C/R7/JC7KQ4ZPXIVLIAUVHGG94K.uasset'
+[2023.04.28-10.31.22:619][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/VE/G86XT6C01J32PZHFXA1KHO
+[2023.04.28-10.31.22:619][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/G86XT6C01J32PZHFXA1KHO01D9BB9F43075D49B06AD781AA8CC0AC.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/VE/G86XT6C01J32PZHFXA1KHO.uasset'
+[2023.04.28-10.31.22:626][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/1/A2/USXJ510VJSP46Z7EF7RM17
+[2023.04.28-10.31.22:626][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/USXJ510VJSP46Z7EF7RM17EF65766A4B74C7BD84493DB83BE035BF.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/1/A2/USXJ510VJSP46Z7EF7RM17.uasset'
+[2023.04.28-10.31.22:634][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/JX/1PYRMHYJKTHEM77W57LQXM
+[2023.04.28-10.31.22:634][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/1PYRMHYJKTHEM77W57LQXM1666C51A4FA024299149398D2F35BB6A.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/JX/1PYRMHYJKTHEM77W57LQXM.uasset'
+[2023.04.28-10.31.22:642][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/DI/V62YEPXPX8WWK4R2FV85YD
+[2023.04.28-10.31.22:642][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/V62YEPXPX8WWK4R2FV85YDF5E496304F37B44A821B218A8064D592.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/D/DI/V62YEPXPX8WWK4R2FV85YD.uasset'
+[2023.04.28-10.31.22:648][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/1/D3/4Z2GB9AES9WPD9BLFZWPVO
+[2023.04.28-10.31.22:649][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/4Z2GB9AES9WPD9BLFZWPVOE9CE27D44B0F0A05FEC05A9A260DD6C5.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/1/D3/4Z2GB9AES9WPD9BLFZWPVO.uasset'
+[2023.04.28-10.31.22:656][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/A/F5/OP4SOY7NOSDSEO6RKNBWYF
+[2023.04.28-10.31.22:656][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/OP4SOY7NOSDSEO6RKNBWYF6C2FA159496E151F0DC745A030798B75.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/A/F5/OP4SOY7NOSDSEO6RKNBWYF.uasset'
+[2023.04.28-10.31.22:664][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/X6/4JM3OOF6XJPFG17TLNQ1PG
+[2023.04.28-10.31.22:664][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/4JM3OOF6XJPFG17TLNQ1PGB95D69B34B2D6EDD7C3A00BCC5970E4B.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/X6/4JM3OOF6XJPFG17TLNQ1PG.uasset'
+[2023.04.28-10.31.22:670][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/1/RJ/YMV71CZT1I4LM4G6OL7HSZ
+[2023.04.28-10.31.22:671][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/YMV71CZT1I4LM4G6OL7HSZ17C65F3E4B6B402F85B3D5A308921752.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/1/RJ/YMV71CZT1I4LM4G6OL7HSZ.uasset'
+[2023.04.28-10.31.22:678][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/IG/JDX5IBJO7Z9HMDPSFG1PSR
+[2023.04.28-10.31.22:678][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/JDX5IBJO7Z9HMDPSFG1PSRE096D6344D99773913600E888701F42E.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/0/IG/JDX5IBJO7Z9HMDPSFG1PSR.uasset'
+[2023.04.28-10.31.22:686][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/S7/L26QUYRJI0L8EO664T22GB
+[2023.04.28-10.31.22:686][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/L26QUYRJI0L8EO664T22GBDE689EE849B427F6EE8CA6BBD920B25E.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/S7/L26QUYRJI0L8EO664T22GB.uasset'
+[2023.04.28-10.31.22:691][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/5P/CTK2OZJ0TD52HOQI943070
+[2023.04.28-10.31.22:691][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/CTK2OZJ0TD52HOQI943070E68B2919490F8D2A229198BA96C04EEE.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/C/5P/CTK2OZJ0TD52HOQI943070.uasset'
+[2023.04.28-10.31.22:697][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/UB/2TZO04YJS83TR30IPVEA3A
+[2023.04.28-10.31.22:697][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/2TZO04YJS83TR30IPVEA3A248FFA3C4C570B640F650CB5BB85D41D.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/UB/2TZO04YJS83TR30IPVEA3A.uasset'
+[2023.04.28-10.31.22:704][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/9/D3/W3ENG6WT8B4Y7P5BDKVG78
+[2023.04.28-10.31.22:704][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/W3ENG6WT8B4Y7P5BDKVG78FD21E8954CC4FDA9E74E82AAEAA75FE1.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/9/D3/W3ENG6WT8B4Y7P5BDKVG78.uasset'
+[2023.04.28-10.31.22:710][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/LV/19L43JGIBGZG95VEMP24N0
+[2023.04.28-10.31.22:710][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/19L43JGIBGZG95VEMP24N03187B394402D078D54EDF28D8029C7CC.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/0/LV/19L43JGIBGZG95VEMP24N0.uasset'
+[2023.04.28-10.31.22:716][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/TG/S9VLC5F15MMJ7S7GMKMC2F
+[2023.04.28-10.31.22:716][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/S9VLC5F15MMJ7S7GMKMC2F560D051A41496044240D738E03F3098E.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/0/TG/S9VLC5F15MMJ7S7GMKMC2F.uasset'
+[2023.04.28-10.31.22:723][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/1Z/GCVO6L3526C3CH6QDBN0Y0
+[2023.04.28-10.31.22:723][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/GCVO6L3526C3CH6QDBN0Y055CBE026418563DFF920B0A02FF4014F.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/1Z/GCVO6L3526C3CH6QDBN0Y0.uasset'
+[2023.04.28-10.31.22:729][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/LN/0X7FYN6NMPB1M960XWGT9H
+[2023.04.28-10.31.22:730][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/0X7FYN6NMPB1M960XWGT9H571A985B4119F9D83C54CDBDE9D09B17.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/LN/0X7FYN6NMPB1M960XWGT9H.uasset'
+[2023.04.28-10.31.22:735][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/YY/3ARTAHD2RXMOW7IESFLF2L
+[2023.04.28-10.31.22:735][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/3ARTAHD2RXMOW7IESFLF2L30D51E3546537BBBFEE78DB3A5BB554B.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/YY/3ARTAHD2RXMOW7IESFLF2L.uasset'
+[2023.04.28-10.31.22:742][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/KN/76I8XS01VKY6Q6FG20XCLX
+[2023.04.28-10.31.22:742][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/76I8XS01VKY6Q6FG20XCLXB680DE9A44BA6737E493FDA355631DCF.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/KN/76I8XS01VKY6Q6FG20XCLX.uasset'
+[2023.04.28-10.31.22:749][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/NN/RX0D0AA1RSPU7H6KFM0YPV
+[2023.04.28-10.31.22:749][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/RX0D0AA1RSPU7H6KFM0YPV7AC57B4647EF465B08A840B0E0637946.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/NN/RX0D0AA1RSPU7H6KFM0YPV.uasset'
+[2023.04.28-10.31.22:755][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/UY/2TQBQJEZ5A51K0Y2FHWH7Q
+[2023.04.28-10.31.22:755][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/2TQBQJEZ5A51K0Y2FHWH7QEC791EE14C783B8316C85DB51B4C31CF.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/UY/2TQBQJEZ5A51K0Y2FHWH7Q.uasset'
+[2023.04.28-10.31.22:762][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/9/H4/E4TPPTVM23Y0311ZZ99GBO
+[2023.04.28-10.31.22:762][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/E4TPPTVM23Y0311ZZ99GBO91C638A246B532209B95C3BA7EA7E07A.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/9/H4/E4TPPTVM23Y0311ZZ99GBO.uasset'
+[2023.04.28-10.31.22:770][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/TM/DWAI0L0FFZJ12XJDQ6LYOK
+[2023.04.28-10.31.22:770][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/DWAI0L0FFZJ12XJDQ6LYOKC4CAB992486ADAAF002810A8185F0128.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/TM/DWAI0L0FFZJ12XJDQ6LYOK.uasset'
+[2023.04.28-10.31.22:776][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/HB/93Y9VDD5DF7MF8DY1YSSX6
+[2023.04.28-10.31.22:776][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/93Y9VDD5DF7MF8DY1YSSX6A75B5D1A43B19D041E5397B76E0025E4.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/HB/93Y9VDD5DF7MF8DY1YSSX6.uasset'
+[2023.04.28-10.31.22:782][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/VC/4AP6D7KO98NIF0KSGUVJVJ
+[2023.04.28-10.31.22:782][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/4AP6D7KO98NIF0KSGUVJVJ236114CC48288D29A2FE4BA3A0601D2F.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/VC/4AP6D7KO98NIF0KSGUVJVJ.uasset'
+[2023.04.28-10.31.22:789][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/1X/TA06HTFRWCT02GS83R83VL
+[2023.04.28-10.31.22:789][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/TA06HTFRWCT02GS83R83VL1275C9C140D155041BFB4CA8D74FD569.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/1X/TA06HTFRWCT02GS83R83VL.uasset'
+[2023.04.28-10.31.22:794][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/LB/NT6T0B9WMU3CVQPH0TOT4C
+[2023.04.28-10.31.22:794][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/NT6T0B9WMU3CVQPH0TOT4C8E26C4234BDF31C66C053AB00CB7B834.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/0/LB/NT6T0B9WMU3CVQPH0TOT4C.uasset'
+[2023.04.28-10.31.22:801][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/S3/A7TSBF7PNH6Y3N2F7BQTU2
+[2023.04.28-10.31.22:801][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/A7TSBF7PNH6Y3N2F7BQTU2ACAD85C9419F748D162ED58B88AD4462.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/S3/A7TSBF7PNH6Y3N2F7BQTU2.uasset'
+[2023.04.28-10.31.22:808][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/JE/DPUU340F2WJGN0LO9PU3B5
+[2023.04.28-10.31.22:808][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/DPUU340F2WJGN0LO9PU3B5B7CB73C54A16E2B92AB325B01AEFA51C.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/JE/DPUU340F2WJGN0LO9PU3B5.uasset'
+[2023.04.28-10.31.22:817][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/T3/00MZYI3U86E5KJPMZ0FDP3
+[2023.04.28-10.31.22:817][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/00MZYI3U86E5KJPMZ0FDP3FD1C325A4ADC9516422987BAAF072C9D.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/C/T3/00MZYI3U86E5KJPMZ0FDP3.uasset'
+[2023.04.28-10.31.22:824][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/AW/86DM1N8S19OSG2Q0890Q6C
+[2023.04.28-10.31.22:824][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/86DM1N8S19OSG2Q0890Q6C977025D4457850F9A54FE68297D38D91.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/2/AW/86DM1N8S19OSG2Q0890Q6C.uasset'
+[2023.04.28-10.31.22:831][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/XP/K9LSSGWF7KWEP9FR2R0SMZ
+[2023.04.28-10.31.22:831][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/K9LSSGWF7KWEP9FR2R0SMZ802DC1C94CF8CBDC9ADA76AAF481259B.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/XP/K9LSSGWF7KWEP9FR2R0SMZ.uasset'
+[2023.04.28-10.31.22:898][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/80/TWZYH30QOVLL21D5Z4M5GM
+[2023.04.28-10.31.22:898][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/TWZYH30QOVLL21D5Z4M5GMC7CEE1DE4B7C57D6846FAE9EF7D4C4BC.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/80/TWZYH30QOVLL21D5Z4M5GM.uasset'
+[2023.04.28-10.31.22:904][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/4C/URUEECE8Q039JS1MW6AQFS
+[2023.04.28-10.31.22:904][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/URUEECE8Q039JS1MW6AQFSDEB2D3BF4082737CDD8DB29C8BB95D7C.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/4C/URUEECE8Q039JS1MW6AQFS.uasset'
+[2023.04.28-10.31.22:911][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/2Q/SMFX9K3H6YNF0HNEEZYV0F
+[2023.04.28-10.31.22:911][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/SMFX9K3H6YNF0HNEEZYV0FB00586F445B18A1188DBCEA3151F3B34.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/2Q/SMFX9K3H6YNF0HNEEZYV0F.uasset'
+[2023.04.28-10.31.22:917][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/8O/WWMU3NYFMRO5GHJ11HT3YD
+[2023.04.28-10.31.22:917][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/WWMU3NYFMRO5GHJ11HT3YDD09D98BB42F4BAC950A2D1B6577220D4.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/8O/WWMU3NYFMRO5GHJ11HT3YD.uasset'
+[2023.04.28-10.31.22:923][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/5H/R0WEJ15BFKMKLO9GOZ7HEN
+[2023.04.28-10.31.22:923][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/R0WEJ15BFKMKLO9GOZ7HENB94D809F4E7D28D7CD18C6A7E546419D.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/5H/R0WEJ15BFKMKLO9GOZ7HEN.uasset'
+[2023.04.28-10.31.22:930][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/QT/MW95IT44BOU86VBQXYJB2I
+[2023.04.28-10.31.22:930][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/MW95IT44BOU86VBQXYJB2I1B1B8E114EE3114C958F74B1EFDF6741.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/QT/MW95IT44BOU86VBQXYJB2I.uasset'
+[2023.04.28-10.31.22:936][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/P2/REATSQLSPQZ015ADB8U8ZM
+[2023.04.28-10.31.22:936][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/REATSQLSPQZ015ADB8U8ZMDE26876348CAD5A0ABF5E9A03A798BC1.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/P2/REATSQLSPQZ015ADB8U8ZM.uasset'
+[2023.04.28-10.31.22:943][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/1X/ALWXVJ8N9PKFVNI430FP1L
+[2023.04.28-10.31.22:943][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/ALWXVJ8N9PKFVNI430FP1LE802D0F246E4F096234292A01FB0C350.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/C/1X/ALWXVJ8N9PKFVNI430FP1L.uasset'
+[2023.04.28-10.31.22:949][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/OS/46RVXM5Z2JMQFRMP3HFZGN
+[2023.04.28-10.31.22:949][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/46RVXM5Z2JMQFRMP3HFZGN1FCE704B46285C0182F36EA67E2FE5FE.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/OS/46RVXM5Z2JMQFRMP3HFZGN.uasset'
+[2023.04.28-10.31.22:955][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/FX/5BAMUYPL5QGVQ1M86LNGFJ
+[2023.04.28-10.31.22:955][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/5BAMUYPL5QGVQ1M86LNGFJB69234CA4C413C5BD84507928169BE3B.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/FX/5BAMUYPL5QGVQ1M86LNGFJ.uasset'
+[2023.04.28-10.31.22:962][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/ZH/L5KHFN50O0K637W67ZQQWG
+[2023.04.28-10.31.22:962][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/L5KHFN50O0K637W67ZQQWG8E3A0542402A193EBDE1489B1B3405BC.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/ZH/L5KHFN50O0K637W67ZQQWG.uasset'
+[2023.04.28-10.31.22:969][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/V6/1W85W841P7DGFY1RITC21A
+[2023.04.28-10.31.22:969][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/1W85W841P7DGFY1RITC21A7977CF5943F80D50E5AFF9A30ECE77E8.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/V6/1W85W841P7DGFY1RITC21A.uasset'
+[2023.04.28-10.31.22:988][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/PA/06I5HPBP3ZHXSE0XYZJU9X
+[2023.04.28-10.31.22:988][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/06I5HPBP3ZHXSE0XYZJU9X5D46FA5448DB3A712C34C7AAB07E356E.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/PA/06I5HPBP3ZHXSE0XYZJU9X.uasset'
+[2023.04.28-10.31.22:994][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/PP/NFIE4QGB2BE608UN26JBV4
+[2023.04.28-10.31.22:994][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/NFIE4QGB2BE608UN26JBV4E49A77884EFE8876DC8E15B01DCFEBCC.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/D/PP/NFIE4QGB2BE608UN26JBV4.uasset'
+[2023.04.28-10.31.23:000][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/LC/9AOAPFT1HTP0CROLCUG48S
+[2023.04.28-10.31.23:000][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/9AOAPFT1HTP0CROLCUG48S1A084825472237539E3266818B0113CB.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/LC/9AOAPFT1HTP0CROLCUG48S.uasset'
+[2023.04.28-10.31.23:006][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/GE/HW3YAGS8JK79IOMCXJJNT9
+[2023.04.28-10.31.23:006][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/HW3YAGS8JK79IOMCXJJNT96382524E4A6AE848FFB8C8B8F42DD028.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/GE/HW3YAGS8JK79IOMCXJJNT9.uasset'
+[2023.04.28-10.31.23:012][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/78/RPFZQZNYB614RD868LZDJ7
+[2023.04.28-10.31.23:012][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/RPFZQZNYB614RD868LZDJ76E3C70F846E26788DC1F75B8CD08D52E.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/78/RPFZQZNYB614RD868LZDJ7.uasset'
+[2023.04.28-10.31.23:020][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/1/TU/0M4MQW00MINTCQJZS6D99C
+[2023.04.28-10.31.23:020][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/0M4MQW00MINTCQJZS6D99CB0CE8BF5427DDCAE1047BAA407E5E19C.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/1/TU/0M4MQW00MINTCQJZS6D99C.uasset'
+[2023.04.28-10.31.23:027][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/MB/KXX3XCNKZUVWY5QGDYLQT1
+[2023.04.28-10.31.23:027][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/KXX3XCNKZUVWY5QGDYLQT149F2A8A548A80533878D48A0619AA3A5.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/D/MB/KXX3XCNKZUVWY5QGDYLQT1.uasset'
+[2023.04.28-10.31.23:032][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/HV/UCRJ0K6U78J3JYNJQVJNYR
+[2023.04.28-10.31.23:032][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/UCRJ0K6U78J3JYNJQVJNYRCEAA94F94249C063BE704088AF591A81.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/HV/UCRJ0K6U78J3JYNJQVJNYR.uasset'
+[2023.04.28-10.31.23:039][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/W4/PHEYY90DIISNAJR6UBXXO0
+[2023.04.28-10.31.23:039][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/PHEYY90DIISNAJR6UBXXO0C5C1836F4576279FCF0047AC832007AD.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/W4/PHEYY90DIISNAJR6UBXXO0.uasset'
+[2023.04.28-10.31.23:045][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/MS/KVPWSOA7PN5YBH4QIVD7QN
+[2023.04.28-10.31.23:045][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/KVPWSOA7PN5YBH4QIVD7QN14AF0FC94F86880B7E9DAEA2BE755BED.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/MS/KVPWSOA7PN5YBH4QIVD7QN.uasset'
+[2023.04.28-10.31.23:052][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/GP/DPV3BPVGG84X6FIEKQCOPJ
+[2023.04.28-10.31.23:052][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/DPV3BPVGG84X6FIEKQCOPJ88862C074CFE24AFB2121093673BDC39.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/GP/DPV3BPVGG84X6FIEKQCOPJ.uasset'
+[2023.04.28-10.31.23:058][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/36/F22ULH4T51JXGTRCMEK8UG
+[2023.04.28-10.31.23:058][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/F22ULH4T51JXGTRCMEK8UG93D76B534B171359604F33BEB817B27B.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/36/F22ULH4T51JXGTRCMEK8UG.uasset'
+[2023.04.28-10.31.23:064][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/SI/C76RN6XWZ6CN9SGOT9QG56
+[2023.04.28-10.31.23:064][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/C76RN6XWZ6CN9SGOT9QG565E75763B46425286FC77179403F29B9C.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/SI/C76RN6XWZ6CN9SGOT9QG56.uasset'
+[2023.04.28-10.31.23:070][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/XM/OVE9U52W6MM943CQTP5RWR
+[2023.04.28-10.31.23:070][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/OVE9U52W6MM943CQTP5RWR400C9E9148D9237EBB71E7945D9D747D.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/2/XM/OVE9U52W6MM943CQTP5RWR.uasset'
+[2023.04.28-10.31.23:077][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/SV/84D66C97FHOT4FCBGNKH45
+[2023.04.28-10.31.23:077][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/84D66C97FHOT4FCBGNKH459DB6EF5A45665CBBEE6C8BA67117A392.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/E/SV/84D66C97FHOT4FCBGNKH45.uasset'
+[2023.04.28-10.31.23:083][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/XI/5QQ8GINASJMOCL3ZXBD3GC
+[2023.04.28-10.31.23:083][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/5QQ8GINASJMOCL3ZXBD3GC83538A2F4D4C525ED42307A1CAF78F29.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/D/XI/5QQ8GINASJMOCL3ZXBD3GC.uasset'
+[2023.04.28-10.31.23:090][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/6R/XRFE94Z67QQGPBNHW60FPL
+[2023.04.28-10.31.23:090][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/XRFE94Z67QQGPBNHW60FPLCA2CD8314639830B53B8DBB71D71488E.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/6R/XRFE94Z67QQGPBNHW60FPL.uasset'
+[2023.04.28-10.31.23:099][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/9F/SW0CTL36IV5VO8S3GVSLAU
+[2023.04.28-10.31.23:099][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/SW0CTL36IV5VO8S3GVSLAU4B2537664527B4C25DDA97B9406D8692.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/3/9F/SW0CTL36IV5VO8S3GVSLAU.uasset'
+[2023.04.28-10.31.23:104][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/BB/5H893DF6XR2IQCON92JXLJ
+[2023.04.28-10.31.23:104][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/5H893DF6XR2IQCON92JXLJAAFD0FEF4F54969ED5531B8A4F7B8866.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/2/BB/5H893DF6XR2IQCON92JXLJ.uasset'
+[2023.04.28-10.31.23:109][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/MN/CW0J1GFHKN1OJ3QMW31VQA
+[2023.04.28-10.31.23:109][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/CW0J1GFHKN1OJ3QMW31VQA1928466B49AD208FAAA9419B317CE7DE.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/MN/CW0J1GFHKN1OJ3QMW31VQA.uasset'
+[2023.04.28-10.31.23:116][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/G5/27HNARH8N9FF7RR5A95P03
+[2023.04.28-10.31.23:116][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/27HNARH8N9FF7RR5A95P0302C16C0C4CC3D5E68B4165B159F73A4C.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/G5/27HNARH8N9FF7RR5A95P03.uasset'
+[2023.04.28-10.31.23:123][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/4Q/97HAKJJCCZS9AHX5PU43OW
+[2023.04.28-10.31.23:123][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/97HAKJJCCZS9AHX5PU43OW56E4C1D3437D4BF214DA18BC6CF7C8CB.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/2/4Q/97HAKJJCCZS9AHX5PU43OW.uasset'
+[2023.04.28-10.31.23:128][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/ZR/K0RQ4B0L9IVHZXJKZV20HP
+[2023.04.28-10.31.23:128][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/K0RQ4B0L9IVHZXJKZV20HP19B5664E488FDB3B56B754BA2D513F91.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/5/ZR/K0RQ4B0L9IVHZXJKZV20HP.uasset'
+[2023.04.28-10.31.23:132][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/DV/VXWIGE4SAMTYIBGTE5A55I
+[2023.04.28-10.31.23:132][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/VXWIGE4SAMTYIBGTE5A55I640E1A8A4925DE8A7CAEBBA784D21620.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/DV/VXWIGE4SAMTYIBGTE5A55I.uasset'
+[2023.04.28-10.31.23:140][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/OI/ZUEE6K11AQ6R2AYGDC2RUH
+[2023.04.28-10.31.23:140][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/ZUEE6K11AQ6R2AYGDC2RUHF071EAFE483924870A77EF9D08CFAB9D.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/0/OI/ZUEE6K11AQ6R2AYGDC2RUH.uasset'
+[2023.04.28-10.31.23:146][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/SP/6C5KIIHJQC61DFAJAAGVFP
+[2023.04.28-10.31.23:146][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/6C5KIIHJQC61DFAJAAGVFPB16516004F31094855B512A24E7C1670.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/2/SP/6C5KIIHJQC61DFAJAAGVFP.uasset'
+[2023.04.28-10.31.23:152][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/F/0E/TSIMTHENK103Q5M0RIS0VN
+[2023.04.28-10.31.23:152][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/TSIMTHENK103Q5M0RIS0VN150F56824BDE702C082E589BDF5EC604.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/F/0E/TSIMTHENK103Q5M0RIS0VN.uasset'
+[2023.04.28-10.31.23:158][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/QE/645MYKBV7S2CA2AS80U9VV
+[2023.04.28-10.31.23:158][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/645MYKBV7S2CA2AS80U9VV145A46EB4A2AA1CE29A6F1A503860C67.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/6/QE/645MYKBV7S2CA2AS80U9VV.uasset'
+[2023.04.28-10.31.23:172][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/FI/U8ULXKBNWT08NU7LK2FOIG
+[2023.04.28-10.31.23:172][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/U8ULXKBNWT08NU7LK2FOIG94C33AB548D159B80BB35CA13144CF4D.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/B/FI/U8ULXKBNWT08NU7LK2FOIG.uasset'
+[2023.04.28-10.31.23:180][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/3V/GBY3G54KKIE9KG4FYKY4K6
+[2023.04.28-10.31.23:180][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/GBY3G54KKIE9KG4FYKY4K6ADF955C642DD5530CA22FE99DCEF2663.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/2/3V/GBY3G54KKIE9KG4FYKY4K6.uasset'
+[2023.04.28-10.31.23:182][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 999 ms (total: 1.05 sec)
+[2023.04.28-10.31.23:185][ 72]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/NewMap_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/NewMap/7/PV/3F6BO7MT23VXF0F3BJ3SVV
+/Game/__ExternalObjects__/Maps/NewMap/B/1I/0IU8TM862LV9H1H1NLM65H
+/Game/__ExternalObjects__/Maps/NewMap/A/GD/MF84NVBBXEU474DJ8ZVZAE
+/Game/__ExternalObjects__/Maps/NewMap/4/S0/NGAU94BV2F559EHNTPSSBV
+/Game/__ExternalObjects__/Maps/NewMap/6/3M/ZEFXAEX0HV3TIZWTU363JO
+/Game/__ExternalObjects__/Maps/NewMap/D/74/RFBFD2DNH0FEFQHKLMS41U
+/Game/__ExternalActors__/Maps/NewMap/7/8Q/VJ59F2KE5EJH7KL11HW56U
+/Game/__ExternalActors__/Maps/NewMap/8/ZI/VRIBNAXQJAWQR5GOWUC1SN
+/Game/__ExternalActors__/Maps/NewMap/4/A0/I6PGO2ZACY1WYF9I5EWTV6
+/Game/__ExternalActors__/Maps/NewMap/3/XV/N7NAI5BLFP6XUPRVG9092T
+/Game/__ExternalActors__/Maps/NewMap/4/CH/3K1ELW8POX1476YIQIL90J
+/Game/__ExternalActors__/Maps/NewMap/0/K8/KR4MOME0Q9EHHAY19LM47K
+/Game/__ExternalActors__/Maps/NewMap/9/NJ/QESUL5YBJS1BBCHS2JSAVQ
+/Game/__ExternalActors__/Maps/NewMap/5/C6/3MZ9SCO4KE8UN4S2S282VM
+/Game/__ExternalActors__/Maps/NewMap/3/KW/T37EUQ2I007W1SUXMLX8B1
+/Game/__ExternalActors__/Maps/NewMap/E/HP/LU8EKCDKP0TL42NE2BIE38
+/Game/__ExternalActors__/Maps/NewMap/B/E2/FB68B8QWD9882N88F07FTI
+/Game/__ExternalActors__/Maps/NewMap/9/ML/0A2E1UWBY3YB38FNYNUELG
+/Game/__ExternalActors__/Maps/NewMap/0/QE/10GL7VDT3NTXY663PYRD4Y
+/Game/__ExternalActors__/Maps/NewMap/8/C7/Z7VCJMUUKO55YXUQ5F3HS5
+/Game/__ExternalActors__/Maps/NewMap/4/59/4L9KR4JK4180UQ3PBI1B5L
+/Game/__ExternalActors__/Maps/NewMap/9/WP/6NFSDY4DTFF14D3C9ONM8B
+/Game/__ExternalActors__/Maps/NewMap/4/T0/SECY0RQVNA3LGX1MRFFWJR
+/Game/__ExternalActors__/Maps/NewMap/E/85/ND2LBN0Y13W6NNXN1UWAAO
+/Game/__ExternalActors__/Maps/NewMap/4/PR/AD3ZC87T0ZBOYRJO3J9ANR
+/Game/__ExternalActors__/Maps/NewMap/2/J4/WRN96VKTI839WVDGJHVO2N
+/Game/__ExternalActors__/Maps/NewMap/A/YP/F85QFOQL6YKZ6YT6SJ8Y8J
+/Game/__ExternalActors__/Maps/NewMap/D/XB/WBW1UWYEJSRM0YAXQL9R11
+/Game/__ExternalActors__/Maps/NewMap/3/9Y/XJMB4I0OIEYHGBTFXAAQIK
+/Game/__ExternalActors__/Maps/NewMap/2/IS/KU1RQBEIZ0F2EMT32CUIE5
+/Game/__ExternalActors__/Maps/NewMap/4/A2/ND9FMEFS3T1CTINSZTJD01
+/Game/__ExternalActors__/Maps/NewMap/6/1Z/MTR97PWLYR7UZVTDU6VSFZ
+/Game/__ExternalActors__/Maps/NewMap/7/2X/MN8VQWTLB3SJB8SY6MZWBJ
+/Game/__ExternalActors__/Maps/NewMap/B/FE/XWU87CPB9QZZOQNI11XCVC
+/Game/__ExternalActors__/Maps/NewMap/E/WQ/XGGG0WAMG1XPGUSTU0HKB0
+/Game/__ExternalActors__/Maps/NewMap/C/PC/NOFCOKUNMS5V2UN59JU9XG
+/Game/__ExternalActors__/Maps/NewMap/5/X6/BLSH9E41YJPK1ZY6Y0GV1N
+/Game/__ExternalActors__/Maps/NewMap/8/46/DX9Z6DKV510ZEYXSS0RAN0
+/Game/__ExternalActors__/Maps/NewMap/B/6H/84RKNU609EH5C98EZOP1PG
+/Game/__ExternalActors__/Maps/NewMap/4/BR/9EXQAIFRX4Z4OC2OH93QVF
+/Game/__ExternalActors__/Maps/NewMap/7/7O/ZZBED7LHDGKG3SH8THJYQZ
+/Game/__ExternalActors__/Maps/NewMap/7/1M/UO3OI5US8RHIWEAU9K9G3K
+/Game/__ExternalActors__/Maps/NewMap/4/2W/KXQ6PYOG90C66N1CJJXJHN
+/Game/__ExternalActors__/Maps/NewMap/5/T9/Q071S8QNFVQYMEK9L4BU5G
+/Game/__ExternalActors__/Maps/NewMap/B/SI/T7QOSKKISAD7TW2ET44AJH
+/Game/__ExternalActors__/Maps/NewMap/8/Y9/B2X2TWC98I4UROIW8EGUWZ
+/Game/__ExternalActors__/Maps/NewMap/4/FV/DMIYP3Z11CP73TNW8H76FN
+/Game/__ExternalActors__/Maps/NewMap/D/AR/W0W40E79SDBRJBO8KUQ77Y
+/Game/__ExternalActors__/Maps/NewMap/6/R7/OLV86I0JEO5FH07W2RYUJB
+/Game/__ExternalActors__/Maps/NewMap/6/C8/3G8JKEP9AAZ27SP07W7G2I
+/Game/__ExternalActors__/Maps/NewMap/5/9J/O2IW7NMCQKXVD54OR4KVVT
+/Game/__ExternalActors__/Maps/NewMap/B/38/5WQUG4Z7YE3VRLFVRYNMC7
+/Game/__ExternalActors__/Maps/NewMap/5/NV/683JY7PQASBHKBGG1KHJZJ
+/Game/__ExternalActors__/Maps/NewMap/4/E0/3DNHCYXL85IR1Z21BNAE4Z
+/Game/__ExternalActors__/Maps/NewMap/4/NT/ORO7HOQI4SPZC00FVB89RR
+/Game/__ExternalActors__/Maps/NewMap/5/FJ/AF0IB6NERZTY60FT9IT1I5
+/Game/__ExternalActors__/Maps/NewMap/C/BW/RA2KM5I66ZNSU53VCRY2SI
+/Game/__ExternalActors__/Maps/NewMap/E/MU/ZTQ5H3ILVU9UJ72Y5W3J3T
+/Game/__ExternalActors__/Maps/NewMap/6/VO/XE7YNGKZFDGGV0LG9I64Y0
+/Game/__ExternalActors__/Maps/NewMap/0/DU/KUWRZ3Y1EYZ0QB2RKTT2B7
+/Game/__ExternalActors__/Maps/NewMap/B/VB/TDPTR8SQ20EHZWPF4P6UXP
+/Game/__ExternalActors__/Maps/NewMap/6/YS/NPPZCARNDCI0B9YHNAH2TN
+/Game/__ExternalActors__/Maps/NewMap/1/Y7/THXEXE8C7Z8X364XCEU44L
+/Game/__ExternalActors__/Maps/NewMap/F/0P/6IK7QNJ3GVBD1FYM95RX7Q
+/Game/__ExternalActors__/Maps/NewMap/A/W0/9UVZPR6FU0QJW26SZGZ6XW
+/Game/__ExternalActors__/Maps/NewMap/0/N8/COA6RG9N2HZXTGSJTPAUS4
+/Game/__ExternalActors__/Maps/NewMap/5/2A/NNNNTLKKAPOM5AN7Z5F358
+/Game/__ExternalActors__/Maps/NewMap/C/R7/JC7KQ4ZPXIVLIAUVHGG94K
+/Game/__ExternalActors__/Maps/NewMap/E/VE/G86XT6C01J32PZHFXA1KHO
+/Game/__ExternalActors__/Maps/NewMap/1/A2/USXJ510VJSP46Z7EF7RM17
+/Game/__ExternalActors__/Maps/NewMap/3/JX/1PYRMHYJKTHEM77W57LQXM
+/Game/__ExternalActors__/Maps/NewMap/D/DI/V62YEPXPX8WWK4R2FV85YD
+/Game/__ExternalActors__/Maps/NewMap/1/D3/4Z2GB9AES9WPD9BLFZWPVO
+/Game/__ExternalActors__/Maps/NewMap/A/F5/OP4SOY7NOSDSEO6RKNBWYF
+/Game/__ExternalActors__/Maps/NewMap/B/X6/4JM3OOF6XJPFG17TLNQ1PG
+/Game/__ExternalActors__/Maps/NewMap/1/RJ/YMV71CZT1I4LM4G6OL7HSZ
+/Game/__ExternalActors__/Maps/NewMap/0/IG/JDX5IBJO7Z9HMDPSFG1PSR
+/Game/__ExternalActors__/Maps/NewMap/8/S7/L26QUYRJI0L8EO664T22GB
+/Game/__ExternalActors__/Maps/NewMap/C/5P/CTK2OZJ0TD52HOQI943070
+/Game/__ExternalActors__/Maps/NewMap/E/UB/2TZO04YJS83TR30IPVEA3A
+/Game/__ExternalActors__/Maps/NewMap/9/D3/W3ENG6WT8B4Y7P5BDKVG78
+/Game/__ExternalActors__/Maps/NewMap/0/LV/19L43JGIBGZG95VEMP24N0
+/Game/__ExternalActors__/Maps/NewMap/0/TG/S9VLC5F15MMJ7S7GMKMC2F
+/Game/__ExternalActors__/Maps/NewMap/E/1Z/GCVO6L3526C3CH6QDBN0Y0
+/Game/__ExternalActors__/Maps/NewMap/3/LN/0X7FYN6NMPB1M960XWGT9H
+/Game/__ExternalActors__/Maps/NewMap/3/YY/3ARTAHD2RXMOW7IESFLF2L
+/Game/__ExternalActors__/Maps/NewMap/3/KN/76I8XS01VKY6Q6FG20XCLX
+/Game/__ExternalActors__/Maps/NewMap/B/NN/RX0D0AA1RSPU7H6KFM0YPV
+/Game/__ExternalActors__/Maps/NewMap/E/UY/2TQBQJEZ5A51K0Y2FHWH7Q
+/Game/__ExternalActors__/Maps/NewMap/9/H4/E4TPPTVM23Y0311ZZ99GBO
+/Game/__ExternalActors__/Maps/NewMap/7/TM/DWAI0L0FFZJ12XJDQ6LYOK
+/Game/__ExternalActors__/Maps/NewMap/5/HB/93Y9VDD5DF7MF8DY1YSSX6
+/Game/__ExternalActors__/Maps/NewMap/8/VC/4AP6D7KO98NIF0KSGUVJVJ
+/Game/__ExternalActors__/Maps/NewMap/E/1X/TA06HTFRWCT02GS83R83VL
+/Game/__ExternalActors__/Maps/NewMap/0/LB/NT6T0B9WMU3CVQPH0TOT4C
+/Game/__ExternalActors__/Maps/NewMap/8/S3/A7TSBF7PNH6Y3N2F7BQTU2
+/Game/__ExternalActors__/Maps/NewMap/5/JE/DPUU340F2WJGN0LO9PU3B5
+/Game/__ExternalActors__/Maps/NewMap/C/T3/00MZYI3U86E5KJPMZ0FDP3
+/Game/__ExternalActors__/Maps/NewMap/2/AW/86DM1N8S19OSG2Q0890Q6C
+/Game/__ExternalActors__/Maps/NewMap/3/XP/K9LSSGWF7KWEP9FR2R0SMZ
+/Game/__ExternalActors__/Maps/NewMap/B/80/TWZYH30QOVLL21D5Z4M5GM
+/Game/__ExternalActors__/Maps/NewMap/8/4C/URUEECE8Q039JS1MW6AQFS
+/Game/__ExternalActors__/Maps/NewMap/7/2Q/SMFX9K3H6YNF0HNEEZYV0F
+/Game/__ExternalActors__/Maps/NewMap/4/8O/WWMU3NYFMRO5GHJ11HT3YD
+/Game/__ExternalActors__/Maps/NewMap/3/5H/R0WEJ15BFKMKLO9GOZ7HEN
+/Game/__ExternalActors__/Maps/NewMap/7/QT/MW95IT44BOU86VBQXYJB2I
+/Game/__ExternalActors__/Maps/NewMap/3/P2/REATSQLSPQZ015ADB8U8ZM
+/Game/__ExternalActors__/Maps/NewMap/C/1X/ALWXVJ8N9PKFVNI430FP1L
+/Game/__ExternalActors__/Maps/NewMap/7/OS/46RVXM5Z2JMQFRMP3HFZGN
+/Game/__ExternalActors__/Maps/NewMap/7/FX/5BAMUYPL5QGVQ1M86LNGFJ
+/Game/__ExternalActors__/Maps/NewMap/3/ZH/L5KHFN50O0K637W67ZQQWG
+/Game/__ExternalActors__/Maps/NewMap/4/V6/1W85W841P7DGFY1RITC21A
+/Game/__ExternalActors__/Maps/NewMap/E/PA/06I5HPBP3ZHXSE0XYZJU9X
+/Game/__ExternalActors__/Maps/NewMap/D/PP/NFIE4QGB2BE608UN26JBV4
+/Game/__ExternalActors__/Maps/NewMap/5/LC/9AOAPFT1HTP0CROLCUG48S
+/Game/__ExternalActors__/Maps/NewMap/7/GE/HW3YAGS8JK79IOMCXJJNT9
+/Game/__ExternalActors__/Maps/NewMap/4/78/RPFZQZNYB614RD868LZDJ7
+/Game/__ExternalActors__/Maps/NewMap/1/TU/0M4MQW00MINTCQJZS6D99C
+/Game/__ExternalActors__/Maps/NewMap/D/MB/KXX3XCNKZUVWY5QGDYLQT1
+/Game/__ExternalActors__/Maps/NewMap/8/HV/UCRJ0K6U78J3JYNJQVJNYR
+/Game/__ExternalActors__/Maps/NewMap/8/W4/PHEYY90DIISNAJR6UBXXO0
+/Game/__ExternalActors__/Maps/NewMap/7/MS/KVPWSOA7PN5YBH4QIVD7QN
+/Game/__ExternalActors__/Maps/NewMap/8/GP/DPV3BPVGG84X6FIEKQCOPJ
+/Game/__ExternalActors__/Maps/NewMap/7/36/F22ULH4T51JXGTRCMEK8UG
+/Game/__ExternalActors__/Maps/NewMap/7/SI/C76RN6XWZ6CN9SGOT9QG56
+/Game/__ExternalActors__/Maps/NewMap/2/XM/OVE9U52W6MM943CQTP5RWR
+/Game/__ExternalActors__/Maps/NewMap/E/SV/84D66C97FHOT4FCBGNKH45
+/Game/__ExternalActors__/Maps/NewMap/D/XI/5QQ8GINASJMOCL3ZXBD3GC
+/Game/__ExternalActors__/Maps/NewMap/7/6R/XRFE94Z67QQGPBNHW60FPL
+/Game/__ExternalActors__/Maps/NewMap/3/9F/SW0CTL36IV5VO8S3GVSLAU
+/Game/__ExternalActors__/Maps/NewMap/2/BB/5H893DF6XR2IQCON92JXLJ
+/Game/__ExternalActors__/Maps/NewMap/7/MN/CW0J1GFHKN1OJ3QMW31VQA
+/Game/__ExternalActors__/Maps/NewMap/B/G5/27HNARH8N9FF7RR5A95P03
+/Game/__ExternalActors__/Maps/NewMap/2/4Q/97HAKJJCCZS9AHX5PU43OW
+/Game/__ExternalActors__/Maps/NewMap/5/ZR/K0RQ4B0L9IVHZXJKZV20HP
+/Game/__ExternalActors__/Maps/NewMap/B/DV/VXWIGE4SAMTYIBGTE5A55I
+/Game/__ExternalActors__/Maps/NewMap/0/OI/ZUEE6K11AQ6R2AYGDC2RUH
+/Game/__ExternalActors__/Maps/NewMap/2/SP/6C5KIIHJQC61DFAJAAGVFP
+/Game/__ExternalActors__/Maps/NewMap/F/0E/TSIMTHENK103Q5M0RIS0VN
+/Game/__ExternalActors__/Maps/NewMap/6/QE/645MYKBV7S2CA2AS80U9VV
+/Game/__ExternalActors__/Maps/NewMap/B/FI/U8ULXKBNWT08NU7LK2FOIG
+/Game/__ExternalActors__/Maps/NewMap/2/3V/GBY3G54KKIE9KG4FYKY4K6
+[2023.04.28-10.31.23:185][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-10.31.23:195][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.04.28-10.31.23:198][ 72]LogSavePackage: Moving output files for package: /Game/Maps/NewMap
+[2023.04.28-10.31.23:199][ 72]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/NewMapCE1F324C409E14BE770683ACD8CAEA2A.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Maps/NewMap.umap'
+[2023.04.28-10.31.23:253][ 72]LogFileHelpers: Saving map 'NewMap' took 1.279
+[2023.04.28-10.31.23:253][ 72]Cmd: MAP LOAD FILE="G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.04.28-10.31.23:253][ 72]LightingResults: New page: Lighting Build
+[2023.04.28-10.31.23:253][ 72]LoadErrors: New page: Loading map: NewMap.umap
+[2023.04.28-10.31.23:304][ 72]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-10.31.23:304][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-10.31.23:307][ 72]LogContentBundle: [Container: NewMap] Deleting container.
+[2023.04.28-10.31.23:307][ 72]MapCheck: New page: Map Check
+[2023.04.28-10.31.23:307][ 72]LightingResults: New page: Lighting Build
+[2023.04.28-10.31.24:079][ 72]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.04.28-10.31.24:079][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.28-10.31.24:096][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.04.28-10.31.24:101][ 72]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-10.31.24:101][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-10.31.24:106][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.28-10.31.24:112][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.28-10.31.24:117][ 72]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2023.04.28-10.31.24:117][ 72]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-10.31.24:117][ 72]LogAIModule: Creating AISystem for world NewMap
+[2023.04.28-10.31.24:117][ 72]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.28-10.31.24:117][ 72]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.28-10.31.24:117][ 72]LogWorldPartition: UWorldPartition::Initialize(Asset=NewMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.28-10.31.24:322][ 72]LogContentBundle: [Container: NewMap] Creating new contrainer.
+[2023.04.28-10.31.24:322][ 72]LogWorldPartition: Display: WorldPartition initialize took 203 ms (total: 525 ms)
+[2023.04.28-10.31.24:765][ 72]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.28-10.31.24:864][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.28-10.31.24:868][ 72]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.28-10.31.24:869][ 72]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,834ms to complete.
+[2023.04.28-10.31.24:869][ 72]LogFileHelpers: Loading map 'NewMap' took 1.616
+[2023.04.28-10.31.24:872][ 72]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/NewMap.NewMap
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2023.04.28-10.31.24:872][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Maps/NewMap.NewMap:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/Maps/NewMap.NewMap:PersistentLevel.WorldDataLayers
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/Maps/NewMap_HLOD0_Instancing.NewMap_HLOD0_Instancing
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/Maps/NewMap.NewMap:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/Maps/NewMap.NewMap:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/Maps/NewMap.NewMap:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/Maps/NewMap.NewMap:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/Maps/NewMap.NewMap:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/Maps/NewMap.NewMap:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/Maps/NewMap.NewMap:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Maps/NewMap.NewMap:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Maps/NewMap.NewMap:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Maps/NewMap.NewMap:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2023.04.28-10.31.24:873][ 72]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Maps/NewMap.NewMap:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2023.04.28-10.31.34:047][908]LogObjectTools: Deleting 1 worlds: /Game/Maps/NewMap.NewMap
+[2023.04.28-10.31.34:047][908]LogObjectTools: Currently 2 active worlds: /Game/Maps/NewMap.NewMap, /Engine/Transient.World_0
+[2023.04.28-10.31.35:154][908]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.04.28-10.31.35:158][908]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.04.28-10.31.37:463][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.28-10.31.37:514][113]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2023.04.28-10.31.37:514][113]Cmd: MAP LOAD FILE="G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.04.28-10.31.37:514][113]LightingResults: New page: Lighting Build
+[2023.04.28-10.31.37:514][113]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.04.28-10.31.37:550][113]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-10.31.37:551][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-10.31.37:553][113]LogContentBundle: [Container: NewMap] Deleting container.
+[2023.04.28-10.31.37:553][113]MapCheck: New page: Map Check
+[2023.04.28-10.31.37:553][113]LightingResults: New page: Lighting Build
+[2023.04.28-10.31.37:557][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.28-10.31.37:570][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.28-10.31.37:574][113]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-10.31.37:574][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-10.31.37:580][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.28-10.31.37:584][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.28-10.31.37:586][113]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.04.28-10.31.37:586][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-10.31.37:586][113]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.28-10.31.37:602][113]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.28-10.31.37:609][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.28-10.31.37:612][113]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.28-10.31.37:612][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,052ms to complete.
+[2023.04.28-10.31.37:612][113]LogFileHelpers: Loading map 'MainMenu' took 0.098
+[2023.04.28-10.31.41:530][554]LogObjectTools: Deleting 1 worlds: /Game/Maps/NewMap.NewMap
+[2023.04.28-10.31.41:530][554]LogObjectTools: Currently 2 active worlds: /Game/Maps/MainMenu.MainMenu, /Engine/Transient.World_0
+[2023.04.28-10.31.41:534][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.28-10.31.42:655][554]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.28-10.31.42:670][554]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Maps/NewMap.NewMap
+	Asset Type: World
+	Asset Name: /Game/Maps/NewMap_HLOD0_Instancing.NewMap_HLOD0_Instancing
+	Asset Type: HLODLayer
+	Asset Name: /Game/__ExternalActors__/Maps/NewMap/7/PV/3F6BO7MT23VXF0F3BJ3SVV
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Maps/NewMap/4/S0/NGAU94BV2F559EHNTPSSBV
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Maps/NewMap/6/3M/ZEFXAEX0HV3TIZWTU363JO
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Maps/NewMap/A/GD/MF84NVBBXEU474DJ8ZVZAE
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Maps/NewMap/B/1I/0IU8TM862LV9H1H1NLM65H
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Maps/NewMap/D/74/RFBFD2DNH0FEFQHKLMS41U
+	Asset Type: Package
+[2023.04.28-10.31.42:772][554]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-10.31.42:772][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-10.31.42:969][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.28-10.31.42:974][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.28-10.31.42:980][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.04.28-10.31.42:983][554]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Maps/NewMap does not exist, will not scan.
+[2023.04.28-10.31.50:079][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-10.31.50:125][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-10.31.50:131][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.28-10.31.50:134][808]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2023.04.28-10.31.50:134][808]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/MainMenuE319C9334024CF718294F9888ADBC9C4.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Maps/MainMenu.umap'
+[2023.04.28-10.31.50:137][808]LogFileHelpers: Saving map 'MainMenu' took 0.011
+[2023.04.28-10.31.50:141][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.11 sec)
+[2023.04.28-10.31.50:143][808]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.28-10.31.50:143][808]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MainMenu.MainMenu
+[2023.04.28-10.31.51:500][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.04.28-10.31.51:501][968]LogStall: Shutdown...
+[2023.04.28-10.31.51:503][968]LogStall: Shutdown complete.
+[2023.04.28-10.31.51:517][968]LogSlate: Window 'Skillbox_GameJam23 - Unreal Editor' being destroyed
+[2023.04.28-10.31.51:553][969]Cmd: QUIT_EDITOR
+[2023.04.28-10.31.51:553][969]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.04.28-10.31.51:555][969]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.04.28-10.31.51:555][969]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.04.28-10.31.51:555][969]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.04.28-10.31.51:555][969]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-10.31.51:555][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-10.31.51:557][969]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.04.28-10.31.51:557][969]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.04.28-10.31.51:579][969]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.04.28-10.31.51:579][969]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.04.28-10.31.51:579][969]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2023.04.28-10.31.51:580][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.04.28-10.31.51:581][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.04.28-10.31.51:586][969]LogAudio: Display: Audio Device Manager Shutdown
+[2023.04.28-10.31.51:588][969]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.04.28-10.31.51:588][969]LogExit: Preparing to exit.
+[2023.04.28-10.31.51:597][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.28-10.31.52:400][969]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-10.31.52:420][969]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.04.28-10.31.52:424][969]LogExit: Editor shut down
+[2023.04.28-10.31.52:425][969]LogExit: Transaction tracking system shut down
+[2023.04.28-10.31.52:469][969]LogExit: Object subsystem successfully closed.
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: ================================================
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Total job queries 113, among them cache hits 15 (13.27%)
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Tracking 98 distinct input hashes that result in 82 distinct outputs (83.67%)
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: RAM used: 0.86 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Shaders Compiled: 98
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Jobs assigned 98, completed 98 (100.00%)
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Average time worker was idle: 22.10 s
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Time job spent in pending queue: average 1.47 s, longest 7.86 s
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Job execution time: average 3.64 s, max 8.99 s
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Job life time (pending + execution): average 5.10 s, max 9.00
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.12 s
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Jobs were issued in 59 batches (only local compilation was used), average 1.66 jobs/batch
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Average processing rate: 7.47 jobs/sec
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Total thread time: 84.96 s
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Total thread preprocess time: 4.49 s
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Percentage time preprocessing: 5.28%
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Effective parallelization: 6.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.83 sec, max 1.83 sec, min 1.83 sec)
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.28 sec, max 1.92 sec, min 0.93 sec)
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 25.58% of total time (compiled   17 times, average 1.28 sec, max 1.92 sec, min 0.93 sec)
+[2023.04.28-10.31.52:473][969]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.50% of total time (compiled   10 times, average 0.98 sec, max 1.26 sec, min 0.75 sec)
+[2023.04.28-10.31.52:474][969]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.17% of total time (compiled   10 times, average 0.86 sec, max 1.12 sec, min 0.73 sec)
+[2023.04.28-10.31.52:474][969]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.64% of total time (compiled    8 times, average 0.71 sec, max 0.83 sec, min 0.58 sec)
+[2023.04.28-10.31.52:474][969]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.68% of total time (compiled    8 times, average 0.50 sec, max 0.55 sec, min 0.43 sec)
+[2023.04.28-10.31.52:474][969]LogShaderCompilers: Display: ================================================
+[2023.04.28-10.31.52:474][969]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.04.28-10.31.52:481][969]LogVirtualization: UE::Virtualization was shutdown
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (991)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (989)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (987)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (985)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module AddContentDialog (983)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module WidgetCarousel (982)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module SceneOutliner (979)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module SubobjectEditor (977)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module StatusBar (975)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (973)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module StatsViewer (971)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (969)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module AutomationWorker (967)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module SmartSnapping (965)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module IKRigEditor (963)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module ControlRigEditor (961)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (959)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (957)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (955)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module WaveTableEditor (953)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (951)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module GooglePADEditor (949)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (947)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (945)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module TextureAlignMode (943)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module BspMode (941)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module GeometryMode (939)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module PlanarCut (937)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module CharacterAI (935)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (933)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (931)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (929)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (927)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (925)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module WebMMedia (923)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (921)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (919)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module SequenceRecorder (918)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (915)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (913)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (911)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (909)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (907)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (905)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (903)
+[2023.04.28-10.31.52:491][969]LogModuleManager: Shutting down and abandoning module SessionServices (901)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module MeshPaint (899)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (897)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module PlacementMode (896)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module FoliageEdit (893)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module LandscapeEditor (891)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (889)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module ActorPickerMode (887)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module ViewportSnapping (885)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module ViewportInteraction (883)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module ClothPainter (881)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (880)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module LogVisualizer (877)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (875)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (873)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2023.04.28-10.31.52:492][969]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (870)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (867)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (865)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (863)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (861)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module AnimationSettings (859)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (857)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module CSVtoSVG (855)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (853)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module EditorConfig (851)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (849)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module EditorFramework (847)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (845)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module TraceInsights (843)
+[2023.04.28-10.31.52:765][969]MemoryProfiler: Shutdown
+[2023.04.28-10.31.52:765][969]NetworkingProfiler: Shutdown
+[2023.04.28-10.31.52:765][969]LoadingProfiler: Shutdown
+[2023.04.28-10.31.52:765][969]TimingProfiler: Shutdown
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module TraceServices (842)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (839)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (838)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module InputBindingEditor (835)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module MergeActors (833)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (831)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module LocalizationService (830)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module HardwareTargeting (827)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (825)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module UndoHistory (823)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module XmlParser (821)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module Blutility (819)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (817)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (816)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (813)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (812)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module SettingsEditor (809)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module ProjectLauncher (807)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module SessionFrontend (805)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module ProfilerClient (803)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module DeviceManager (801)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module AutomationController (799)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module AutomationWindow (797)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module Layers (795)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (793)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module DetailCustomizations (791)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module PackagesDialog (789)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (787)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module Persona (785)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (784)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module AnimGraph (782)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module Kismet (779)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module KismetWidgets (778)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module GraphEditor (775)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module StructViewer (773)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module ClassViewer (771)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module NaniteTools (769)
+[2023.04.28-10.31.52:765][969]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (767)
+[2023.04.28-10.31.52:766][969]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (765)
+[2023.04.28-10.31.52:766][969]LogModuleManager: Shutting down and abandoning module SourceControlWindows (763)
+[2023.04.28-10.31.52:766][969]LogModuleManager: Shutting down and abandoning module OutputLog (761)
+[2023.04.28-10.31.52:766][969]LogModuleManager: Shutting down and abandoning module Documentation (759)
+[2023.04.28-10.31.52:766][969]LogModuleManager: Shutting down and abandoning module LiveCoding (757)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (755)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module MovieScene (753)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (751)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (749)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (747)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module AudioMixer (746)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module AudioMixerCore (745)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module LauncherPlatform (741)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module AnalyticsET (739)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module PortalServices (737)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module PortalRpc (735)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module MessagingRpc (733)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module AIModule (731)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module GameplayDebugger (730)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module AITestSuite (728)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module NavigationSystem (726)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module DataLayerEditor (723)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module EditorWidgets (722)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (719)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (717)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module TypedElementFramework (715)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (713)
+[2023.04.28-10.31.52:769][969]LogModuleManager: Shutting down and abandoning module ProfilerService (711)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module TaskGraph (709)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (707)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (705)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module TakesCore (703)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (701)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module MegascansPlugin (699)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module Bridge (697)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (695)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (693)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (691)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (687)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module LightMixer (685)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module TakeSequencer (683)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module TakeMovieScene (681)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (679)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (677)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (675)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module UObjectPlugin (673)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (671)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (669)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module PluginUtils (667)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (665)
+[2023.04.28-10.31.52:917][969]LogModuleManager: Shutting down and abandoning module DumpGPUServices (663)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GitSourceControl (661)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (659)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (657)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (655)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module Paper2DEditor (653)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (651)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (649)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeTests (647)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AlembicImporter (643)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AlembicLibrary (642)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module VariantManager (639)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (638)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (635)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (633)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (631)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ControlRigSpline (629)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (627)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (625)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module TemplateSequence (623)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (621)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module SequencerScripting (619)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (617)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (615)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (613)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeEditor (611)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (609)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (607)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (605)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangePipelines (603)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeExport (601)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeMessages (599)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeImport (597)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (595)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InterchangeNodes (593)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module SynthesisEditor (591)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ResonanceAudio (589)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (587)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (585)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ModelingOperators (583)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (581)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ModelingComponents (579)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryFramework (578)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (575)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MeshModelingTools (573)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (571)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InputDebugging (569)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GooglePAD (567)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module DynamicMesh (565)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (563)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (561)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryCache (559)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (557)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (555)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (553)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AssetTags (551)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AudioCapture (549)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (548)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (545)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (543)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AppleImageUtils (541)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AndroidPermission (539)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (537)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (535)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (533)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (531)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (529)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module StylusInput (527)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module PluginBrowser (525)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (523)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (521)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (519)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GLTFImporter (517)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GLTFCore (515)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (513)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (511)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module EditorDebugTools (509)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module CurveEditorTools (507)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (505)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module CryptoKeys (503)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (501)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module UVEditorTools (499)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module UVEditor (497)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (495)
+[2023.04.28-10.31.52:918][969]LogOpenImageDenoise: OIDN shutting down
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MeshLODToolset (493)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (491)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (489)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (487)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (485)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module Iris (483)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (481)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (479)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (478)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (476)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (473)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (471)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (469)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (467)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module DataflowNodes (465)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module DataflowEditor (463)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (461)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (459)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (457)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ChaosNiagara (455)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module FractureEditor (453)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module BackChannel (451)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (449)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module AutomationUtils (447)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (445)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MediaPlate (443)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MediaCompositing (441)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module ImgMedia (439)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (437)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (435)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module TraceUtilities (433)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (431)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (429)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module InputEditor (427)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (425)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module Niagara (423)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module NiagaraEditor (422)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module NiagaraCore (419)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (417)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (415)
+[2023.04.28-10.31.52:918][969]LogModuleManager: Shutting down and abandoning module Paper2D (413)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module AnimationSharing (411)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (409)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module IKRig (407)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (405)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module ControlRig (403)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module ActorSequence (401)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module Synthesis (399)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module SoundFields (397)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module SignificanceManager (395)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (393)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (391)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module MetasoundEditor (389)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module AudioWidgets (388)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (387)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (383)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module MetasoundEngine (381)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module WaveTable (380)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (378)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (375)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (373)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (371)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (369)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (367)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (365)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module CableComponent (363)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (361)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (360)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (357)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module SignalProcessing (356)
+[2023.04.28-10.31.52:919][969]LogModuleManager: Shutting down and abandoning module TcpMessaging (353)
+[2023.04.28-10.31.53:020][969]LogModuleManager: Shutting down and abandoning module UdpMessaging (351)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (349)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (347)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module FacialAnimation (345)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module DataValidation (343)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (341)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module ContentBrowser (340)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module ToolMenus (339)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module ContentBrowserData (337)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module TreeMap (334)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (331)
+[2023.04.28-10.31.53:120][969]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (329)
+[2023.04.28-10.31.53:122][969]LogModuleManager: Shutting down and abandoning module PBIK (327)
+[2023.04.28-10.31.53:122][969]LogModuleManager: Shutting down and abandoning module FullBodyIK (325)
+[2023.04.28-10.31.53:122][969]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (323)
+[2023.04.28-10.31.53:122][969]LogModuleManager: Shutting down and abandoning module TakeRecorder (322)
+[2023.04.28-10.31.53:122][969]LogModuleManager: Shutting down and abandoning module LevelEditor (320)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (319)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (317)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (315)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module MainFrame (313)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module HotReload (312)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module ChaosCaching (307)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module LevelSequence (306)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module GameplayCameras (303)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (301)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (295)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (293)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2023.04.28-10.31.53:123][969]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2023.04.28-10.31.53:125][969]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2023.04.28-10.31.53:125][969]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module Core (227)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2023.04.28-10.31.53:126][969]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2023.04.28-10.31.53:127][969]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2023.04.28-10.31.53:138][969]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2023.04.28-10.31.53:138][969]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (112)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module NiagaraShader (110)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module PixWinPlugin (108)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (106)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (104)
+[2023.04.28-10.31.53:140][969]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (102)
+[2023.04.28-10.31.53:142][969]LogModuleManager: Shutting down and abandoning module XMPP (97)
+[2023.04.28-10.31.53:142][969]LogModuleManager: Shutting down and abandoning module WebSockets (96)
+[2023.04.28-10.31.53:176][969]LogModuleManager: Shutting down and abandoning module HTTP (93)
+[2023.04.28-10.31.53:176][969]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.04.28-10.31.53:176][969]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A2202E3-49D5-1DF3-5354-34BF37291F88%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=62cbb79c4f81dd36edbcaa9bfc6d77f1%7Cf39e5927627a4b8aae7b6fa92a895fab%7Cd0cfdb60-affc-4307-ab16-4339d3bf4894&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.04.28-10.31.53:181][969]LogModuleManager: Shutting down and abandoning module SSL (92)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (88)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (86)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (84)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module VariantManagerContent (82)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module GLTFExporter (80)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module DatasmithContent (78)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (76)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module ChunkDownloader (72)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module AISupportModule (70)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (68)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2023.04.28-10.31.53:182][969]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2023.04.28-10.31.53:185][969]LogModuleManager: Shutting down and abandoning module Media (63)
+[2023.04.28-10.31.53:185][969]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (60)
+[2023.04.28-10.31.53:185][969]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.04.28-10.31.53:185][969]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2023.04.28-10.31.53:185][969]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2023.04.28-10.31.53:185][969]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2023.04.28-10.31.53:185][969]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2023.04.28-10.31.53:185][969]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2023.04.28-10.31.53:185][969]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2023.04.28-10.31.53:185][969]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.04.28-10.31.53:187][969]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.04.28-10.31.53:188][969]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.04.28-10.31.53:188][969]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.04.28-10.31.53:188][969]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.04.28-10.31.53:188][969]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.04.28-10.31.53:188][969]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.04.28-10.31.53:188][969]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.04.28-10.31.53:188][969]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.04.28-10.31.53:188][969]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.04.28-10.31.53:188][969]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.04.28-10.31.53:301][969]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.04.28-10.31.53:323][969]LogExit: Exiting.
+[2023.04.28-10.31.53:364][969]Log file closed, 04/28/23 13:31:53
