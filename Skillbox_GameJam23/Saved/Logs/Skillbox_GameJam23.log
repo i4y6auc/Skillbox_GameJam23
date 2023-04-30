@@ -1719,3 +1719,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.30-15.21.07:588][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 471 ms (total: 1.05 sec)
 [2023.04.30-15.21.07:599][518]AssetCheck: New page: Asset Save: Level_1
 [2023.04.30-15.21.07:599][518]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game/Maps/Level_1.Level_1
+[2023.04.30-15.34.54:746][ 70]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.04.30-15.34.54:746][ 70]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.04.30-15.40.39:739][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-15.40.39:859][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.30-15.40.39:967][356]LogSavePackage: Moving output files for package: /Game/Game/Maps/Level_1
+[2023.04.30-15.40.39:968][356]LogSavePackage: Moving '../../../../../../Users/DM/Documents/Unreal Projects/GameJam/Skillbox_GameJam23/Saved/Level_1E8A48DA84CEFA7DA6CDF4D96493709F0.tmp' to '../../../../../../Users/DM/Documents/Unreal Projects/GameJam/Skillbox_GameJam23/Content/Game/Maps/Level_1.umap'
+[2023.04.30-15.40.39:983][356]LogFileHelpers: Saving map 'Level_1' took 0.170
+[2023.04.30-15.40.39:990][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 251 ms (total: 1.30 sec)
+[2023.04.30-15.40.39:996][356]AssetCheck: New page: Asset Save: Level_1
+[2023.04.30-15.40.39:996][356]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game/Maps/Level_1.Level_1
