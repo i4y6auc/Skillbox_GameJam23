@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/DM/Documents/Unreal Projects/GameJam/Skillbox_GameJam23/Content/Game/Blueprints/Player/BP_Player_Granny.uasset",
+				"C:/Users/DM/Documents/Unreal Projects/GameJam/Skillbox_GameJam23/Content/Game/Maps/Level_1.umap",
 				"F:/Jams/Skillbox_GameJam23/Content/Game/Animations/OldManIdle_UE.uasset",
 				"F:/Jams/Skillbox_GameJam23/Content/Game/Animations/OldManWalk_UE.uasset",
 				"F:/Jams/Skillbox_GameJam23/Content/Game/Animations/WalkerWalk_UE.uasset",
