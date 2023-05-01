@@ -1615,3 +1615,14 @@ Make sure 'BP_Grandson' has been compiled for  Invalid Message Node
 [2023.05.01-13.46.57:719][896]AssetCheck: New page: Asset Save: AIC_Grandson
 [2023.05.01-13.46.57:719][896]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/AI/Grandson/AIC_Grandson.AIC_Grandson
 [2023.05.01-13.46.57:720][896]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Game/AI/Grandson/AIC_Grandson.
+[2023.05.01-13.54.24:917][974]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.05.01-13.54.24:917][974]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.05.01-13.54.31:832][790]BlueprintLog: New page: Compile AIC_Grandson
+[2023.05.01-13.54.31:910][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.05.01-13.54.31:917][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.01-13.54.31:965][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/AI/Grandson/AIC_Grandson" FILE="G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Game/AI/Grandson/AIC_Grandson.uasset" SILENT=true
+[2023.05.01-13.54.31:967][790]LogSavePackage: Moving output files for package: /Game/Game/AI/Grandson/AIC_Grandson
+[2023.05.01-13.54.31:967][790]LogSavePackage: Moving 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Saved/AIC_Grandson38C768D7469611385C7CC9A22D1273D6.tmp' to 'G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Game/AI/Grandson/AIC_Grandson.uasset'
+[2023.05.01-13.54.31:972][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.00 sec)
+[2023.05.01-13.54.31:980][790]AssetCheck: New page: Asset Save: AIC_Grandson
+[2023.05.01-13.54.31:980][790]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Game/AI/Grandson/AIC_Grandson.AIC_Grandson
