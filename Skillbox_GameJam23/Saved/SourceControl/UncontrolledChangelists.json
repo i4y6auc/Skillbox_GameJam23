@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/DM/Documents/Unreal Projects/GameJam/Skillbox_GameJam23/Content/Game/Blueprints/Player/BP_Player_Granny.uasset",
+				"C:/Users/DM/Documents/Unreal Projects/GameJam/Skillbox_GameJam23/Content/Game/Maps/Level_1.umap",
+				"C:/Users/DM/Documents/Unreal Projects/GameJam/Skillbox_GameJam23/Content/AssetsvilleTown/Maps/Demonstration.umap",
 				"G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/7/8Q/VJ59F2KE5EJH7KL11HW56U.uasset",
 				"G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/8/ZI/VRIBNAXQJAWQR5GOWUC1SN.uasset",
 				"G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/__ExternalActors__/Maps/NewMap/4/A0/I6PGO2ZACY1WYF9I5EWTV6.uasset",
@@ -1772,8 +1775,6 @@
 				"G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Construction_VOL1/Blueprints/BP_Portapotty_01.uasset",
 				"G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Construction_VOL1/Maps/Demonstration_BuiltData.uasset",
 				"G:/SkillboxJam_Repo/Skillbox_GameJam23/Content/Construction_VOL1/Maps/Overview_BuiltData.uasset",
-				"C:/Users/DM/Documents/Unreal Projects/GameJam/Skillbox_GameJam23/Content/Game/Blueprints/Player/BP_Player_Granny.uasset",
-				"C:/Users/DM/Documents/Unreal Projects/GameJam/Skillbox_GameJam23/Content/Game/Maps/Level_1.umap",
 				"F:/Jams/Skillbox_GameJam23/Content/Game/Animations/OldManIdle_UE.uasset",
 				"F:/Jams/Skillbox_GameJam23/Content/Game/Animations/OldManWalk_UE.uasset",
 				"F:/Jams/Skillbox_GameJam23/Content/Game/Animations/WalkerWalk_UE.uasset",
