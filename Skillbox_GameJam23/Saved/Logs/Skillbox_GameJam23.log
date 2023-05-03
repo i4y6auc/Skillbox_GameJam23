@@ -2382,6 +2382,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.03-08.16.52:513][773]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.03-08.16.52:513][773]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Game/Maps/Level_1_BuiltData.Level_1_BuiltData
 [2023.05.03-08.16.52:513][773]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game/Maps/Level_1.Level_1
+<<<<<<< HEAD
 [2023.05.03-08.24.40:036][362]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
 [2023.05.03-08.24.40:036][362]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
 [2023.05.03-08.24.41:430][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
@@ -2997,3 +2998,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.03-08.25.54:280][826]LogD3D12RHI: ~FD3D12DynamicRHI
 [2023.05.03-08.25.54:321][826]LogExit: Exiting.
 [2023.05.03-08.25.54:362][826]Log file closed, 05/03/23 11:25:54
+=======
+>>>>>>> 4y6
