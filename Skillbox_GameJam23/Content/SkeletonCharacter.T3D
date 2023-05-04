@@ -1,0 +1,5 @@
+Begin Object Class=/Script/Engine.Skeleton Name="SkeletonCharacter"
+   BoneTree(23)=()
+   SlotGroups(0)=(SlotNames=("DefaultSlot"))
+   PreviewSkeletalMesh="/Game/AssetsvilleTown/Meshes/Characters/SK_citizen_female_03.SK_citizen_female_03"
+End Object
